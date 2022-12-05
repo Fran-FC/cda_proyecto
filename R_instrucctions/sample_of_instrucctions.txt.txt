@@ -1,0 +1,32 @@
+practical 7 CDA
+
+install.packages('caret')
+library(caret)
+DSTticTacToe=read.table(file = "tic-tac-toe.data.txt", header = FALSE, sep = ",")
+header=c("top-left-square","top-middle-square","top-right-square","middle-left-square","middle-middle-square","middle-right-square","bottom-left-square","bottom-middle-square","bottom-right-square","Class")
+names(DSTticTacToe)=header
+trainIndex <- createDataPartition(DSTticTacToe$Class, p = .7, list = FALSE, times = 1)
+partitionTrain = DSTticTacToe[trainIndex,]
+partitionTest = DSTticTacToe[-trainIndex,]
+set.seed(7)
+modelNearsthNeigthbor <- train(Class ~ ., data = partitionTrain, method = "kknn", trControl = fitControl)
+
+
+
+
+https://www.datanovia.com/en/lessons/k-means-clustering-in-r-algorith-and-practical-examples/
+https://uc-r.github.io/kmeans_clustering
+k - means 
+install.packages("factoextra")
+library(factoextra)
+data("USArrests")      # Loading the data set
+df <- scale(USArrests) # Scaling the data
+kmeans(x, centers, iter.max = 10, nstart = 1)
+
+set.seed(123)
+km.res <- kmeans(df, 4, nstart = 25)
+print(km.res)
+
+
+distance <- get_dist(df)
+fviz_dist(distance, gradient = list(low = "#00AFBB", mid = "white", high = "#FC4E07"))
