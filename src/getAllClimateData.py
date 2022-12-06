@@ -5,61 +5,58 @@ import requests
 import json
 import time 
 
-data = json.load(sys.stdin)
+# data = json.load(sys.stdin)
+data = None
+with open("dataset/allStations", "r") as f:
+    data = json.loads(f.read())
 
-url = "https://opendata.aemet.es/opendata/api/valores/climatologicos/valoresextremos/parametro/P/estacion/"
-querystring = {"api_key":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmcmFmb2xjbUBnbWFpbC5jb20iLCJqdGkiOiI4YTk5YmU2MS01M2Y3LTQ0MmQtYjJmYS03ODA2NTE3M2Y0MGYiLCJpc3MiOiJBRU1FVCIsImlhdCI6MTU3OTQ1MTc5NCwidXNlcklkIjoiOGE5OWJlNjEtNTNmNy00NDJkLWIyZmEtNzgwNjUxNzNmNDBmIiwicm9sZSI6IiJ9.9-8Pm5gqQ1Gi3ZvLnAAHkLkDGpKeVMT0hdLkZhOcHpQ"}
+url = "https://opendata.aemet.es/opendata/api/valores/climatologicos/valoresextremos/parametro/{}/estacion/{}"
+
+querystring = {
+    "api_key":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmcmFmb2xjbUBnbWFpbC5jb20iLCJqdGkiOiI5YmEwNGI3Yy1lMDY5LTQxYzMtOTU4OC1iY2Q4ZWVhNzMwZmUiLCJpc3MiOiJBRU1FVCIsImlhdCI6MTY3MDI2OTY0NiwidXNlcklkIjoiOWJhMDRiN2MtZTA2OS00MWMzLTk1ODgtYmNkOGVlYTczMGZlIiwicm9sZSI6IiJ9.HkxTYnW4TR_stjkKIgdNocU7pSRxTHn_r4dmK2T09F8"
+}
+
 headers = {
     'cache-control': "no-cache"
-    }
+}
 
-filePrefix = "infoTemp"
+fileTemp = "dataset/infoTemp"
 
 stationsLeft = []
+data_stations = []
 
-for estacion in data:
-    codigo = estacion["indicativo"]
+for property in ["P", "V"]:
+    for estacion in data:
+        success = False
+        while(not success):
+            success = True
+            time.sleep(0.5)
+            indicativo = estacion["indicativo"]
 
-    url = url + str(codigo)
-    try:
-        response = requests.request("GET", url, headers=headers, params=querystring)
-        resp = json.loads(response.text)
-        dataUrl = resp["datos"]
-        try:
-            # obtener de la respuesta la url que contendrá los datos meteorológicas de dicha estacion
-            response = requests.request("GET", dataUrl)
             try:
-                f = open(filePrefix+str(codigo), "w")
-                f.write(response.text)
-            finally:
-                f.close()
-        except Exception as e2:
-            print("No se han podido obtener los datos a partir de la url: ", dataUrl, "\nExcepcion: ", e2)
-    except Exception as e1:
-        print("No se ha podido obtener la url para obtener los datos de la estacion ", codigo, "\nExcepcion: ", e1)
-        stationsLeft.append(codigo)
-    url = "https://opendata.aemet.es/opendata/api/valores/climatologicos/valoresextremos/parametro/P/estacion/"
+                resp = requests.request("GET", url.format(property, indicativo), headers=headers, params=querystring)
+                json_resp = json.loads(resp.text)
+                dataUrl = json_resp["datos"]
 
-while stationsLeft:  
-    stationId = stationsLeft.pop(0)
-    url = url + str(stationId)
+                # obtener de la respuesta la url que contendrá los datos meteorológicas de dicha estacion
+                response = requests.request("GET", dataUrl)
+                json_resp = json.loads(response.text)
+                with open(fileTemp, "r") as fr:
+                    data_json = json.loads(fr.read())
 
-    try:
-        response = requests.request("GET", url, headers=headers, params=querystring)
-        resp = json.loads(response.text)
-        dataUrl = resp["datos"]
-        try:
-            # obtener de la respuesta la url que contendrá los datos meteorológicas de dicha estacion
-            response = requests.request("GET", dataUrl)
-            try:
-                f = open(filePrefix+str(stationId), "w")
-                f.write(response.text)
-            finally:
-                f.close()
-        except Exception as e2:
-            print("No se han podido obtener los datos a partir de la url: ", dataUrl, "\nExcepcion: ", e2)
-    except Exception as e1:
-        print("No se ha podido obtener la url para obtener los datos de la estacion ", stationId, "\nExcepcion: ", e1)
-        stationsLeft.append(stationId)
-    url = "https://opendata.aemet.es/opendata/api/valores/climatologicos/valoresextremos/parametro/P/estacion/"
-    time.sleep(0.5)
+                    station = [a for a in data_json if a["indicativo"] == indicativo].pop()
+                    for key in json_resp:
+                        station[key] = json_resp[key]
+                
+                    data_stations.append(station)
+                print("Added {} to {} to data set".format(property, indicativo))
+                    
+            except Exception as e1:
+                print("No se ha podido obtener la url para obtener los datos de la estacion ", indicativo, "\nExcepcion: ", e1)
+                success = False
+                time.sleep(5)
+                continue
+            
+
+with open(fileTemp+"2", "w") as fw:
+    fw.write(json.dumps(data_stations))
