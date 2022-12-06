@@ -1,0 +1,13 @@
+Clustering de los diferentes climas principales y secundarios en españa segun los datos climaticos extremos por la EMET desde 1981 hasta 2010 
+Json -> array posicion 
+
+Columnas
+ indicativo
+ nombre
+ ubicacion
+ 
+ temMedBaja Solo el más bajo
+ temMedAlta Solo el más Alto pos13
+(temMedBaja+temMedAlta/2) = media
+
+repetir para viento y precipitacion
