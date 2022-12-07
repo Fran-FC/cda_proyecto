@@ -6,8 +6,19 @@ Columnas
  nombre
  ubicacion
  
+ latitud
+ altitud
+ longitud
+ 
  temMedBaja Solo el más bajo
  temMedAlta Solo el más Alto pos13
-(temMedBaja+temMedAlta/2) = media
+ (temMedBaja+temMedAlta/2) = media
+ 
+ rachMax
+ dirRachMax
 
-repetir para viento y precipitacion
+ maxDiasMesPrec
+ maxDiasMesNieve
+ maxDiasMesTormenta
+ precMaxDia
+ precMaxMen
