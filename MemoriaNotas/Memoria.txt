@@ -22,3 +22,8 @@ Columnas
  maxDiasMesTormenta
  precMaxDia
  precMaxMen
+
+Para cada columna 
+    calcular desviacionestandar y media 
+a cada valor 
+        valor-media/desviacionestandar

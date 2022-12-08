@@ -19,7 +19,8 @@
         "precMaxMen": 1834,
         "rachMax": 108,
         "dirRachMax": 360,
-        "temMed": 161.0
+        "temMed": 161.0,
+        "oscilaciónTermica": 328
     },
     {
         "latitud": "411734N",
@@ -41,7 +42,8 @@
         "precMaxMen": 5008,
         "rachMax": 139,
         "dirRachMax": 320,
-        "temMed": 161.5
+        "temMed": 161.5,
+        "oscilaciónTermica": 294
     },
     {
         "latitud": "412506N",
@@ -63,7 +65,8 @@
         "precMaxMen": 3658,
         "rachMax": 144,
         "dirRachMax": 360,
-        "temMed": 150.5
+        "temMed": 150.5,
+        "oscilaciónTermica": 298
     },
     {
         "latitud": "412326N",
@@ -85,7 +88,8 @@
         "precMaxMen": 2064,
         "rachMax": 116,
         "dirRachMax": 340,
-        "temMed": 178.5
+        "temMed": 178.5,
+        "oscilaciónTermica": 346
     },
     {
         "latitud": "414312N",
@@ -107,7 +111,8 @@
         "precMaxMen": 1360,
         "rachMax": 94,
         "dirRachMax": 290,
-        "temMed": 154.0
+        "temMed": 154.0,
+        "oscilaciónTermica": 341
     },
     {
         "latitud": "413125N",
@@ -129,7 +134,8 @@
         "precMaxMen": 2947,
         "rachMax": 104,
         "dirRachMax": 360,
-        "temMed": 146.0
+        "temMed": 146.0,
+        "oscilaciónTermica": 310
     },
     {
         "latitud": "413903N",
@@ -151,7 +157,8 @@
         "precMaxMen": 2340,
         "rachMax": 93,
         "dirRachMax": 250,
-        "temMed": 149.0
+        "temMed": 149.0,
+        "oscilaciónTermica": 280
     },
     {
         "latitud": "415442N",
@@ -173,7 +180,8 @@
         "precMaxMen": 4214,
         "rachMax": 110,
         "dirRachMax": 360,
-        "temMed": 152.0
+        "temMed": 152.0,
+        "oscilaciónTermica": 300
     },
     {
         "latitud": "415848N",
@@ -195,7 +203,8 @@
         "precMaxMen": 4468,
         "rachMax": null,
         "dirRachMax": null,
-        "temMed": 143.5
+        "temMed": 143.5,
+        "oscilaciónTermica": 292
     },
     {
         "latitud": "420616N",
@@ -217,7 +226,8 @@
         "precMaxMen": 2359,
         "rachMax": 85,
         "dirRachMax": 360,
-        "temMed": 155.0
+        "temMed": 155.0,
+        "oscilaciónTermica": 344
     },
     {
         "latitud": "421129N",
@@ -239,7 +249,8 @@
         "precMaxMen": 2590,
         "rachMax": 97,
         "dirRachMax": 340,
-        "temMed": 125.0
+        "temMed": 125.0,
+        "oscilaciónTermica": 269
     },
     {
         "latitud": "410842N",
@@ -261,7 +272,8 @@
         "precMaxMen": 3308,
         "rachMax": 148,
         "dirRachMax": 320,
-        "temMed": 163.0
+        "temMed": 163.0,
+        "oscilaciónTermica": 318
     },
     {
         "latitud": "405729N",
@@ -283,7 +295,8 @@
         "precMaxMen": 5324,
         "rachMax": 162,
         "dirRachMax": 340,
-        "temMed": 174.0
+        "temMed": 174.0,
+        "oscilaciónTermica": 355
     },
     {
         "latitud": "431825N",
@@ -305,7 +318,8 @@
         "precMaxMen": 4102,
         "rachMax": 135,
         "dirRachMax": 340,
-        "temMed": 139.5
+        "temMed": 139.5,
+        "oscilaciónTermica": 329
     },
     {
         "latitud": "432157N",
@@ -327,7 +341,8 @@
         "precMaxMen": 3999,
         "rachMax": 160,
         "dirRachMax": 340,
-        "temMed": 136.5
+        "temMed": 136.5,
+        "oscilaciónTermica": 366
     },
     {
         "latitud": "430938N",
@@ -349,7 +364,8 @@
         "precMaxMen": 3795,
         "rachMax": 152,
         "dirRachMax": 280,
-        "temMed": 128.5
+        "temMed": 128.5,
+        "oscilaciónTermica": 336
     },
     {
         "latitud": "434710N",
@@ -371,7 +387,8 @@
         "precMaxMen": 4307,
         "rachMax": 188,
         "dirRachMax": 300,
-        "temMed": 140.0
+        "temMed": 140.0,
+        "oscilaciónTermica": 327
     },
     {
         "latitud": "425529N",
@@ -393,7 +410,8 @@
         "precMaxMen": 8650,
         "rachMax": 189,
         "dirRachMax": 310,
-        "temMed": 149.0
+        "temMed": 149.0,
+        "oscilaciónTermica": 355
     },
     {
         "latitud": "424314N",
@@ -415,7 +433,8 @@
         "precMaxMen": 9989,
         "rachMax": 139,
         "dirRachMax": 880,
-        "temMed": 118.0
+        "temMed": 118.0,
+        "oscilaciónTermica": 311
     },
     {
         "latitud": "424418N",
@@ -437,7 +456,8 @@
         "precMaxMen": 4523,
         "rachMax": 112,
         "dirRachMax": 280,
-        "temMed": 149.5
+        "temMed": 149.5,
+        "oscilaciónTermica": 361
     },
     {
         "latitud": "425317N",
@@ -459,7 +479,8 @@
         "precMaxMen": 8687,
         "rachMax": 155,
         "dirRachMax": 360,
-        "temMed": 126.0
+        "temMed": 126.0,
+        "oscilaciónTermica": 304
     },
     {
         "latitud": "425234N",
@@ -481,7 +502,8 @@
         "precMaxMen": 6407,
         "rachMax": 82,
         "dirRachMax": 270,
-        "temMed": 147.5
+        "temMed": 147.5,
+        "oscilaciónTermica": 347
     },
     {
         "latitud": "433401N",
@@ -503,7 +525,8 @@
         "precMaxMen": 3969,
         "rachMax": 148,
         "dirRachMax": 330,
-        "temMed": 138.5
+        "temMed": 138.5,
+        "oscilaciónTermica": 330
     },
     {
         "latitud": "433409N",
@@ -525,7 +548,8 @@
         "precMaxMen": 1894,
         "rachMax": 198,
         "dirRachMax": 280,
-        "temMed": 138.5
+        "temMed": 138.5,
+        "oscilaciónTermica": 320
     },
     {
         "latitud": "433921N",
@@ -547,7 +571,8 @@
         "precMaxMen": 2785,
         "rachMax": 166,
         "dirRachMax": 350,
-        "temMed": 141.0
+        "temMed": 141.0,
+        "oscilaciónTermica": 284
     },
     {
         "latitud": "433129N",
@@ -569,7 +594,8 @@
         "precMaxMen": 2794,
         "rachMax": 112,
         "dirRachMax": 270,
-        "temMed": 142.5
+        "temMed": 142.5,
+        "oscilaciónTermica": 332
     },
     {
         "latitud": "433123N",
@@ -591,7 +617,8 @@
         "precMaxMen": 3957,
         "rachMax": 108,
         "dirRachMax": 310,
-        "temMed": 127.5
+        "temMed": 127.5,
+        "oscilaciónTermica": 300
     },
     {
         "latitud": "433230N",
@@ -613,7 +640,8 @@
         "precMaxMen": 2979,
         "rachMax": 166,
         "dirRachMax": 320,
-        "temMed": 130.5
+        "temMed": 130.5,
+        "oscilaciónTermica": 279
     },
     {
         "latitud": "433336N",
@@ -635,7 +663,8 @@
         "precMaxMen": 3829,
         "rachMax": null,
         "dirRachMax": null,
-        "temMed": 152.0
+        "temMed": 152.0,
+        "oscilaciónTermica": 319
     },
     {
         "latitud": "433220N",
@@ -657,7 +686,8 @@
         "precMaxMen": 3591,
         "rachMax": 150,
         "dirRachMax": 320,
-        "temMed": 137.5
+        "temMed": 137.5,
+        "oscilaciónTermica": 316
     },
     {
         "latitud": "432513N",
@@ -679,7 +709,8 @@
         "precMaxMen": 3282,
         "rachMax": 120,
         "dirRachMax": 320,
-        "temMed": 148.5
+        "temMed": 148.5,
+        "oscilaciónTermica": 343
     },
     {
         "latitud": "432112N",
@@ -701,7 +732,8 @@
         "precMaxMen": 3654,
         "rachMax": 190,
         "dirRachMax": 320,
-        "temMed": 134.0
+        "temMed": 134.0,
+        "oscilaciónTermica": 310
     },
     {
         "latitud": "432112N",
@@ -723,7 +755,8 @@
         "precMaxMen": 3682,
         "rachMax": 113,
         "dirRachMax": 320,
-        "temMed": 132.0
+        "temMed": 132.0,
+        "oscilaciónTermica": 334
     },
     {
         "latitud": "425843N",
@@ -745,7 +778,8 @@
         "precMaxMen": 4136,
         "rachMax": 127,
         "dirRachMax": 200,
-        "temMed": 83.5
+        "temMed": 83.5,
+        "oscilaciónTermica": 187
     },
     {
         "latitud": "425939N",
@@ -767,7 +801,8 @@
         "precMaxMen": 4874,
         "rachMax": 146,
         "dirRachMax": 350,
-        "temMed": 73.5
+        "temMed": 73.5,
+        "oscilaciónTermica": 120
     },
     {
         "latitud": "431753N",
@@ -789,7 +824,8 @@
         "precMaxMen": 6269,
         "rachMax": 148,
         "dirRachMax": 320,
-        "temMed": 134.5
+        "temMed": 134.5,
+        "oscilaciónTermica": 334
     },
     {
         "latitud": "431212N",
@@ -811,7 +847,8 @@
         "precMaxMen": 3465,
         "rachMax": 136,
         "dirRachMax": 310,
-        "temMed": 132.5
+        "temMed": 132.5,
+        "oscilaciónTermica": 330
     },
     {
         "latitud": "432237N",
@@ -833,7 +870,8 @@
         "precMaxMen": 1889,
         "rachMax": 153,
         "dirRachMax": 330,
-        "temMed": 147.0
+        "temMed": 147.0,
+        "oscilaciónTermica": 332
     },
     {
         "latitud": "432714N",
@@ -855,7 +893,8 @@
         "precMaxMen": 4212,
         "rachMax": 193,
         "dirRachMax": 300,
-        "temMed": 144.0
+        "temMed": 144.0,
+        "oscilaciónTermica": 318
     },
     {
         "latitud": "432230N",
@@ -877,7 +916,8 @@
         "precMaxMen": 3804,
         "rachMax": 126,
         "dirRachMax": 310,
-        "temMed": 138.0
+        "temMed": 138.0,
+        "oscilaciónTermica": 360
     },
     {
         "latitud": "432341N",
@@ -899,7 +939,8 @@
         "precMaxMen": 4107,
         "rachMax": 107,
         "dirRachMax": 330,
-        "temMed": 144.5
+        "temMed": 144.5,
+        "oscilaciónTermica": 363
     },
     {
         "latitud": "432336N",
@@ -921,7 +962,8 @@
         "precMaxMen": 3767,
         "rachMax": 144,
         "dirRachMax": 320,
-        "temMed": 140.5
+        "temMed": 140.5,
+        "oscilaciónTermica": 344
     },
     {
         "latitud": "432526N",
@@ -943,7 +985,8 @@
         "precMaxMen": 4901,
         "rachMax": 167,
         "dirRachMax": 340,
-        "temMed": 136.0
+        "temMed": 136.0,
+        "oscilaciónTermica": 322
     },
     {
         "latitud": "432754N",
@@ -965,7 +1008,8 @@
         "precMaxMen": 4829,
         "rachMax": 144,
         "dirRachMax": 340,
-        "temMed": 126.5
+        "temMed": 126.5,
+        "oscilaciónTermica": 364
     },
     {
         "latitud": "432928N",
@@ -987,7 +1031,8 @@
         "precMaxMen": 5058,
         "rachMax": 172,
         "dirRachMax": 320,
-        "temMed": 141.0
+        "temMed": 141.0,
+        "oscilaciónTermica": 339
     },
     {
         "latitud": "432928N",
@@ -1009,7 +1054,8 @@
         "precMaxMen": 4370,
         "rachMax": 123,
         "dirRachMax": 310,
-        "temMed": 145.5
+        "temMed": 145.5,
+        "oscilaciónTermica": 339
     },
     {
         "latitud": "431823N",
@@ -1031,7 +1077,8 @@
         "precMaxMen": 4811,
         "rachMax": 187,
         "dirRachMax": 340,
-        "temMed": 115.5
+        "temMed": 115.5,
+        "oscilaciónTermica": 269
     },
     {
         "latitud": "431234N",
@@ -1053,7 +1100,8 @@
         "precMaxMen": 4665,
         "rachMax": 111,
         "dirRachMax": 270,
-        "temMed": 140.5
+        "temMed": 140.5,
+        "oscilaciónTermica": 333
     },
     {
         "latitud": "432125N",
@@ -1075,7 +1123,8 @@
         "precMaxMen": 5480,
         "rachMax": 154,
         "dirRachMax": 320,
-        "temMed": 127.5
+        "temMed": 127.5,
+        "oscilaciónTermica": 274
     },
     {
         "latitud": "432125N",
@@ -1097,7 +1146,8 @@
         "precMaxMen": 5779,
         "rachMax": 104,
         "dirRachMax": 300,
-        "temMed": 139.0
+        "temMed": 139.0,
+        "oscilaciónTermica": 337
     },
     {
         "latitud": "431808N",
@@ -1119,7 +1169,8 @@
         "precMaxMen": 3348,
         "rachMax": 137,
         "dirRachMax": 320,
-        "temMed": 150.0
+        "temMed": 150.0,
+        "oscilaciónTermica": 346
     },
     {
         "latitud": "430448N",
@@ -1141,7 +1192,8 @@
         "precMaxMen": 4506,
         "rachMax": 107,
         "dirRachMax": 310,
-        "temMed": 114.0
+        "temMed": 114.0,
+        "oscilaciónTermica": 321
     },
     {
         "latitud": "423350N",
@@ -1163,7 +1215,8 @@
         "precMaxMen": 3076,
         "rachMax": 107,
         "dirRachMax": 310,
-        "temMed": 127.5
+        "temMed": 127.5,
+        "oscilaciónTermica": 300
     },
     {
         "latitud": "430641N",
@@ -1185,7 +1238,8 @@
         "precMaxMen": 3532,
         "rachMax": 122,
         "dirRachMax": 260,
-        "temMed": 125.5
+        "temMed": 125.5,
+        "oscilaciónTermica": 312
     },
     {
         "latitud": "430809N",
@@ -1207,7 +1261,8 @@
         "precMaxMen": 4649,
         "rachMax": 79,
         "dirRachMax": 230,
-        "temMed": 136.5
+        "temMed": 136.5,
+        "oscilaciónTermica": 272
     },
     {
         "latitud": "422022N",
@@ -1229,7 +1284,8 @@
         "precMaxMen": 3450,
         "rachMax": 107,
         "dirRachMax": 280,
-        "temMed": 114.5
+        "temMed": 114.5,
+        "oscilaciónTermica": 275
     },
     {
         "latitud": "422517N",
@@ -1251,7 +1307,8 @@
         "precMaxMen": 5269,
         "rachMax": 81,
         "dirRachMax": 300,
-        "temMed": 141.0
+        "temMed": 141.0,
+        "oscilaciónTermica": 324
     },
     {
         "latitud": "421956N",
@@ -1273,7 +1330,8 @@
         "precMaxMen": 2961,
         "rachMax": null,
         "dirRachMax": null,
-        "temMed": 137.0
+        "temMed": 137.0,
+        "oscilaciónTermica": 346
     },
     {
         "latitud": "421931N",
@@ -1295,7 +1353,8 @@
         "precMaxMen": 4060,
         "rachMax": 90,
         "dirRachMax": 320,
-        "temMed": 149.0
+        "temMed": 149.0,
+        "oscilaciónTermica": 340
     },
     {
         "latitud": "420445N",
@@ -1317,7 +1376,8 @@
         "precMaxMen": 3453,
         "rachMax": 98,
         "dirRachMax": 350,
-        "temMed": 122.0
+        "temMed": 122.0,
+        "oscilaciónTermica": 259
     },
     {
         "latitud": "422550N",
@@ -1339,7 +1399,8 @@
         "precMaxMen": 8552,
         "rachMax": null,
         "dirRachMax": null,
-        "temMed": 152.5
+        "temMed": 152.5,
+        "oscilaciónTermica": 345
     },
     {
         "latitud": "422618N",
@@ -1361,7 +1422,8 @@
         "precMaxMen": 5963,
         "rachMax": 115,
         "dirRachMax": 310,
-        "temMed": 153.0
+        "temMed": 153.0,
+        "oscilaciónTermica": 359
     },
     {
         "latitud": "421419N",
@@ -1383,7 +1445,8 @@
         "precMaxMen": 9256,
         "rachMax": 140,
         "dirRachMax": 290,
-        "temMed": 142.5
+        "temMed": 142.5,
+        "oscilaciónTermica": 358
     },
     {
         "latitud": "403924N",
@@ -1405,7 +1468,8 @@
         "precMaxMen": 1277,
         "rachMax": 92,
         "dirRachMax": 360,
-        "temMed": 113.0
+        "temMed": 113.0,
+        "oscilaciónTermica": 215
     },
     {
         "latitud": "403933N",
@@ -1427,7 +1491,8 @@
         "precMaxMen": 2315,
         "rachMax": 107,
         "dirRachMax": 360,
-        "temMed": 121.5
+        "temMed": 121.5,
+        "oscilaciónTermica": 216
     },
     {
         "latitud": "402102N",
@@ -1449,7 +1514,8 @@
         "precMaxMen": 2755,
         "rachMax": 130,
         "dirRachMax": 270,
-        "temMed": 95.5
+        "temMed": 95.5,
+        "oscilaciónTermica": 172
     },
     {
         "latitud": "413957N",
@@ -1471,7 +1537,8 @@
         "precMaxMen": 1388,
         "rachMax": 104,
         "dirRachMax": 320,
-        "temMed": 124.0
+        "temMed": 124.0,
+        "oscilaciónTermica": 246
     },
     {
         "latitud": "422125N",
@@ -1493,7 +1560,8 @@
         "precMaxMen": 1940,
         "rachMax": 124,
         "dirRachMax": 270,
-        "temMed": 100.5
+        "temMed": 100.5,
+        "oscilaciónTermica": 168
     },
     {
         "latitud": "415735N",
@@ -1515,7 +1583,8 @@
         "precMaxMen": 2758,
         "rachMax": 104,
         "dirRachMax": 350,
-        "temMed": 111.5
+        "temMed": 111.5,
+        "oscilaciónTermica": 225
     },
     {
         "latitud": "422239N",
@@ -1537,7 +1606,8 @@
         "precMaxMen": 1896,
         "rachMax": 114,
         "dirRachMax": 880,
-        "temMed": 108.5
+        "temMed": 108.5,
+        "oscilaciónTermica": 231
     },
     {
         "latitud": "423558N",
@@ -1559,7 +1629,8 @@
         "precMaxMen": 1069,
         "rachMax": 93,
         "dirRachMax": 350,
-        "temMed": 113.5
+        "temMed": 113.5,
+        "oscilaciónTermica": 232
     },
     {
         "latitud": "423518N",
@@ -1581,7 +1652,8 @@
         "precMaxMen": 2533,
         "rachMax": 130,
         "dirRachMax": 270,
-        "temMed": 106.5
+        "temMed": 106.5,
+        "oscilaciónTermica": 208
     },
     {
         "latitud": "430344N",
@@ -1603,7 +1675,8 @@
         "precMaxMen": 4494,
         "rachMax": 162,
         "dirRachMax": 330,
-        "temMed": 68.0
+        "temMed": 68.0,
+        "oscilaciónTermica": 124
     },
     {
         "latitud": "404735N",
@@ -1625,7 +1698,8 @@
         "precMaxMen": 5590,
         "rachMax": 152,
         "dirRachMax": 290,
-        "temMed": 64.5
+        "temMed": 64.5,
+        "oscilaciónTermica": 117
     },
     {
         "latitud": "415944N",
@@ -1647,7 +1721,8 @@
         "precMaxMen": 1602,
         "rachMax": 130,
         "dirRachMax": 280,
-        "temMed": 120.5
+        "temMed": 120.5,
+        "oscilaciónTermica": 277
     },
     {
         "latitud": "422103N",
@@ -1669,7 +1744,8 @@
         "precMaxMen": 1392,
         "rachMax": 102,
         "dirRachMax": 330,
-        "temMed": 113.5
+        "temMed": 113.5,
+        "oscilaciónTermica": 208
     },
     {
         "latitud": "425214N",
@@ -1691,7 +1767,8 @@
         "precMaxMen": 2950,
         "rachMax": 127,
         "dirRachMax": 250,
-        "temMed": 100.0
+        "temMed": 100.0,
+        "oscilaciónTermica": 245
     },
     {
         "latitud": "420018N",
@@ -1713,7 +1790,8 @@
         "precMaxMen": 1731,
         "rachMax": 78,
         "dirRachMax": 360,
-        "temMed": 120.0
+        "temMed": 120.0,
+        "oscilaciónTermica": 252
     },
     {
         "latitud": "402118N",
@@ -1735,7 +1813,8 @@
         "precMaxMen": 4970,
         "rachMax": 161,
         "dirRachMax": 250,
-        "temMed": 77.5
+        "temMed": 77.5,
+        "oscilaciónTermica": 151
     },
     {
         "latitud": "403806N",
@@ -1757,7 +1836,8 @@
         "precMaxMen": 2330,
         "rachMax": 107,
         "dirRachMax": 340,
-        "temMed": 135.0
+        "temMed": 135.0,
+        "oscilaciónTermica": 298
     },
     {
         "latitud": "405734N",
@@ -1779,7 +1859,8 @@
         "precMaxMen": 1890,
         "rachMax": 137,
         "dirRachMax": 270,
-        "temMed": 118.5
+        "temMed": 118.5,
+        "oscilaciónTermica": 210
     },
     {
         "latitud": "405727N",
@@ -1801,7 +1882,8 @@
         "precMaxMen": 1561,
         "rachMax": 141,
         "dirRachMax": 290,
-        "temMed": 122.5
+        "temMed": 122.5,
+        "oscilaciónTermica": 264
     },
     {
         "latitud": "410041N",
@@ -1823,7 +1905,8 @@
         "precMaxMen": 1893,
         "rachMax": 105,
         "dirRachMax": 300,
-        "temMed": 129.5
+        "temMed": 129.5,
+        "oscilaciónTermica": 307
     },
     {
         "latitud": "411131N",
@@ -1845,7 +1928,8 @@
         "precMaxMen": 5412,
         "rachMax": 198,
         "dirRachMax": 300,
-        "temMed": 79.0
+        "temMed": 79.0,
+        "oscilaciónTermica": 173
     },
     {
         "latitud": "405648N",
@@ -1867,7 +1951,8 @@
         "precMaxMen": 1711,
         "rachMax": null,
         "dirRachMax": null,
-        "temMed": 108.0
+        "temMed": 108.0,
+        "oscilaciónTermica": 227
     },
     {
         "latitud": "405643N",
@@ -1889,7 +1974,8 @@
         "precMaxMen": 1696,
         "rachMax": 126,
         "dirRachMax": 310,
-        "temMed": 132.5
+        "temMed": 132.5,
+        "oscilaciónTermica": 254
     },
     {
         "latitud": "414630N",
@@ -1911,7 +1997,8 @@
         "precMaxMen": 2343,
         "rachMax": 122,
         "dirRachMax": 320,
-        "temMed": 103.5
+        "temMed": 103.5,
+        "oscilaciónTermica": 230
     },
     {
         "latitud": "411933N",
@@ -1933,7 +2020,8 @@
         "precMaxMen": 1534,
         "rachMax": 89,
         "dirRachMax": 260,
-        "temMed": 129.0
+        "temMed": 129.0,
+        "oscilaciónTermica": 262
     },
     {
         "latitud": "414243N",
@@ -1955,7 +2043,8 @@
         "precMaxMen": 1907,
         "rachMax": 133,
         "dirRachMax": 260,
-        "temMed": 108.5
+        "temMed": 108.5,
+        "oscilaciónTermica": 206
     },
     {
         "latitud": "413827N",
@@ -1977,7 +2066,8 @@
         "precMaxMen": 1667,
         "rachMax": 128,
         "dirRachMax": 360,
-        "temMed": 132.0
+        "temMed": 132.0,
+        "oscilaciónTermica": 287
     },
     {
         "latitud": "420039N",
@@ -1999,7 +2089,8 @@
         "precMaxMen": 2141,
         "rachMax": 100,
         "dirRachMax": 270,
-        "temMed": 127.5
+        "temMed": 127.5,
+        "oscilaciónTermica": 282
     },
     {
         "latitud": "415629N",
@@ -2021,7 +2112,8 @@
         "precMaxMen": 3538,
         "rachMax": 103,
         "dirRachMax": 240,
-        "temMed": 108.0
+        "temMed": 108.0,
+        "oscilaciónTermica": 249
     },
     {
         "latitud": "413056N",
@@ -2043,7 +2135,8 @@
         "precMaxMen": 2126,
         "rachMax": 111,
         "dirRachMax": 290,
-        "temMed": 131.0
+        "temMed": 131.0,
+        "oscilaciónTermica": 276
     },
     {
         "latitud": "401719N",
@@ -2065,7 +2158,8 @@
         "precMaxMen": 3775,
         "rachMax": 126,
         "dirRachMax": 350,
-        "temMed": 154.5
+        "temMed": 154.5,
+        "oscilaciónTermica": 350
     },
     {
         "latitud": "392833N",
@@ -2087,7 +2181,8 @@
         "precMaxMen": 2388,
         "rachMax": null,
         "dirRachMax": null,
-        "temMed": 169.0
+        "temMed": 169.0,
+        "oscilaciónTermica": 385
     },
     {
         "latitud": "392817N",
@@ -2109,7 +2204,8 @@
         "precMaxMen": 3638,
         "rachMax": 108,
         "dirRachMax": 310,
-        "temMed": 172.0
+        "temMed": 172.0,
+        "oscilaciónTermica": 376
     },
     {
         "latitud": "400013N",
@@ -2131,7 +2227,8 @@
         "precMaxMen": 2355,
         "rachMax": 119,
         "dirRachMax": 310,
-        "temMed": 169.5
+        "temMed": 169.5,
+        "oscilaciónTermica": 382
     },
     {
         "latitud": "395645N",
@@ -2153,7 +2250,8 @@
         "precMaxMen": 2714,
         "rachMax": 113,
         "dirRachMax": 300,
-        "temMed": 171.0
+        "temMed": 171.0,
+        "oscilaciónTermica": 368
     },
     {
         "latitud": "400235N",
@@ -2175,7 +2273,8 @@
         "precMaxMen": 2369,
         "rachMax": 149,
         "dirRachMax": 350,
-        "temMed": 173.0
+        "temMed": 173.0,
+        "oscilaciónTermica": 390
     },
     {
         "latitud": "392857N",
@@ -2197,7 +2296,8 @@
         "precMaxMen": 1731,
         "rachMax": 81,
         "dirRachMax": 300,
-        "temMed": 171.5
+        "temMed": 171.5,
+        "oscilaciónTermica": 356
     },
     {
         "latitud": "392453N",
@@ -2219,7 +2319,8 @@
         "precMaxMen": 2391,
         "rachMax": 119,
         "dirRachMax": 280,
-        "temMed": 163.5
+        "temMed": 163.5,
+        "oscilaciónTermica": 372
     },
     {
         "latitud": "403149N",
@@ -2241,7 +2342,8 @@
         "precMaxMen": 2278,
         "rachMax": 52,
         "dirRachMax": 290,
-        "temMed": 133.0
+        "temMed": 133.0,
+        "oscilaciónTermica": 285
     },
     {
         "latitud": "400041N",
@@ -2263,7 +2365,8 @@
         "precMaxMen": 1128,
         "rachMax": 121,
         "dirRachMax": 320,
-        "temMed": 170.5
+        "temMed": 170.5,
+        "oscilaciónTermica": 325
     },
     {
         "latitud": "403933N",
@@ -2285,7 +2388,8 @@
         "precMaxMen": 1506,
         "rachMax": 101,
         "dirRachMax": 360,
-        "temMed": 145.0
+        "temMed": 145.0,
+        "oscilaciónTermica": 310
     },
     {
         "latitud": "403805N",
@@ -2307,7 +2411,8 @@
         "precMaxMen": 1954,
         "rachMax": null,
         "dirRachMax": null,
-        "temMed": 142.0
+        "temMed": 142.0,
+        "oscilaciónTermica": 292
     },
     {
         "latitud": "403749N",
@@ -2329,7 +2434,8 @@
         "precMaxMen": 1238,
         "rachMax": 91,
         "dirRachMax": 260,
-        "temMed": 166.0
+        "temMed": 166.0,
+        "oscilaciónTermica": 327
     },
     {
         "latitud": "405030N",
@@ -2351,7 +2457,8 @@
         "precMaxMen": 1768,
         "rachMax": 104,
         "dirRachMax": 290,
-        "temMed": 104.0
+        "temMed": 104.0,
+        "oscilaciónTermica": 98
     },
     {
         "latitud": "410511N",
@@ -2373,7 +2480,8 @@
         "precMaxMen": 1724,
         "rachMax": 127,
         "dirRachMax": 260,
-        "temMed": 118.0
+        "temMed": 118.0,
+        "oscilaciónTermica": 226
     },
     {
         "latitud": "400402N",
@@ -2395,7 +2503,8 @@
         "precMaxMen": 1326,
         "rachMax": 86,
         "dirRachMax": 300,
-        "temMed": 160.5
+        "temMed": 160.5,
+        "oscilaciónTermica": 315
     },
     {
         "latitud": "410025N",
@@ -2417,7 +2526,8 @@
         "precMaxMen": 1812,
         "rachMax": 98,
         "dirRachMax": 330,
-        "temMed": 125.0
+        "temMed": 125.0,
+        "oscilaciónTermica": 242
     },
     {
         "latitud": "404146N",
@@ -2439,7 +2549,8 @@
         "precMaxMen": 2661,
         "rachMax": 117,
         "dirRachMax": 360,
-        "temMed": 147.0
+        "temMed": 147.0,
+        "oscilaciónTermica": 300
     },
     {
         "latitud": "401758N",
@@ -2461,7 +2572,8 @@
         "precMaxMen": 1841,
         "rachMax": 126,
         "dirRachMax": 360,
-        "temMed": 157.0
+        "temMed": 157.0,
+        "oscilaciónTermica": 296
     },
     {
         "latitud": "402800N",
@@ -2483,7 +2595,8 @@
         "precMaxMen": 1920,
         "rachMax": 147,
         "dirRachMax": 360,
-        "temMed": 150.5
+        "temMed": 150.5,
+        "oscilaciónTermica": 270
     },
     {
         "latitud": "402706N",
@@ -2505,7 +2618,8 @@
         "precMaxMen": 1825,
         "rachMax": 113,
         "dirRachMax": 360,
-        "temMed": 160.5
+        "temMed": 160.5,
+        "oscilaciónTermica": 322
     },
     {
         "latitud": "402232N",
@@ -2527,7 +2641,8 @@
         "precMaxMen": 1998,
         "rachMax": 124,
         "dirRachMax": 320,
-        "temMed": 154.5
+        "temMed": 154.5,
+        "oscilaciónTermica": 294
     },
     {
         "latitud": "402443N",
@@ -2549,7 +2664,8 @@
         "precMaxMen": 1984,
         "rachMax": 116,
         "dirRachMax": 270,
-        "temMed": 158.5
+        "temMed": 158.5,
+        "oscilaciónTermica": 306
     },
     {
         "latitud": "404223N",
@@ -2571,7 +2687,8 @@
         "precMaxMen": 3652,
         "rachMax": 158,
         "dirRachMax": 320,
-        "temMed": 102.0
+        "temMed": 102.0,
+        "oscilaciónTermica": 181
     },
     {
         "latitud": "402540N",
@@ -2593,7 +2710,8 @@
         "precMaxMen": 2630,
         "rachMax": 96,
         "dirRachMax": 350,
-        "temMed": 152.0
+        "temMed": 152.0,
+        "oscilaciónTermica": 315
     },
     {
         "latitud": "410808N",
@@ -2615,7 +2733,8 @@
         "precMaxMen": 4794,
         "rachMax": 100,
         "dirRachMax": 880,
-        "temMed": 109.0
+        "temMed": 109.0,
+        "oscilaciónTermica": 221
     },
     {
         "latitud": "402919N",
@@ -2637,7 +2756,8 @@
         "precMaxMen": 1919,
         "rachMax": 111,
         "dirRachMax": 360,
-        "temMed": 153.5
+        "temMed": 153.5,
+        "oscilaciónTermica": 281
     },
     {
         "latitud": "393249N",
@@ -2659,7 +2779,8 @@
         "precMaxMen": 3406,
         "rachMax": 110,
         "dirRachMax": 880,
-        "temMed": 161.5
+        "temMed": 161.5,
+        "oscilaciónTermica": 317
     },
     {
         "latitud": "395731N",
@@ -2681,7 +2802,8 @@
         "precMaxMen": 3483,
         "rachMax": 96,
         "dirRachMax": 300,
-        "temMed": 165.0
+        "temMed": 165.0,
+        "oscilaciónTermica": 332
     },
     {
         "latitud": "395134N",
@@ -2703,7 +2825,8 @@
         "precMaxMen": 1654,
         "rachMax": 83,
         "dirRachMax": 360,
-        "temMed": 154.0
+        "temMed": 154.0,
+        "oscilaciónTermica": 276
     },
     {
         "latitud": "395305N",
@@ -2725,7 +2848,8 @@
         "precMaxMen": 1510,
         "rachMax": 138,
         "dirRachMax": 350,
-        "temMed": 170.0
+        "temMed": 170.0,
+        "oscilaciónTermica": 335
     },
     {
         "latitud": "385300N",
@@ -2747,7 +2871,8 @@
         "precMaxMen": 2697,
         "rachMax": 153,
         "dirRachMax": 320,
-        "temMed": 171.0
+        "temMed": 171.0,
+        "oscilaciónTermica": 382
     },
     {
         "latitud": "385720N",
@@ -2769,7 +2894,8 @@
         "precMaxMen": 1934,
         "rachMax": 99,
         "dirRachMax": 360,
-        "temMed": 172.5
+        "temMed": 172.5,
+        "oscilaciónTermica": 362
     },
     {
         "latitud": "391010N",
@@ -2791,7 +2917,8 @@
         "precMaxMen": 2700,
         "rachMax": 106,
         "dirRachMax": 300,
-        "temMed": 171.0
+        "temMed": 171.0,
+        "oscilaciónTermica": 340
     },
     {
         "latitud": "381755N",
@@ -2813,7 +2940,8 @@
         "precMaxMen": 2226,
         "rachMax": 125,
         "dirRachMax": 320,
-        "temMed": 173.0
+        "temMed": 173.0,
+        "oscilaciónTermica": 401
     },
     {
         "latitud": "381354N",
@@ -2835,7 +2963,8 @@
         "precMaxMen": 1990,
         "rachMax": 119,
         "dirRachMax": 300,
-        "temMed": 172.5
+        "temMed": 172.5,
+        "oscilaciónTermica": 380
     },
     {
         "latitud": "385457N",
@@ -2857,7 +2986,8 @@
         "precMaxMen": 1888,
         "rachMax": 104,
         "dirRachMax": 260,
-        "temMed": 176.5
+        "temMed": 176.5,
+        "oscilaciónTermica": 364
     },
     {
         "latitud": "385916N",
@@ -2879,7 +3009,8 @@
         "precMaxMen": 1774,
         "rachMax": null,
         "dirRachMax": null,
-        "temMed": 155.0
+        "temMed": 155.0,
+        "oscilaciónTermica": 348
     },
     {
         "latitud": "385921N",
@@ -2901,7 +3032,8 @@
         "precMaxMen": 2202,
         "rachMax": 104,
         "dirRachMax": 320,
-        "temMed": 157.0
+        "temMed": 157.0,
+        "oscilaciónTermica": 299
     },
     {
         "latitud": "390501N",
@@ -2923,7 +3055,8 @@
         "precMaxMen": 1812,
         "rachMax": 87,
         "dirRachMax": 280,
-        "temMed": 164.5
+        "temMed": 164.5,
+        "oscilaciónTermica": 349
     },
     {
         "latitud": "391009N",
@@ -2945,7 +3078,8 @@
         "precMaxMen": 1436,
         "rachMax": 95,
         "dirRachMax": 350,
-        "temMed": 172.5
+        "temMed": 172.5,
+        "oscilaciónTermica": 341
     },
     {
         "latitud": "384502N",
@@ -2967,7 +3101,8 @@
         "precMaxMen": 2176,
         "rachMax": 87,
         "dirRachMax": 300,
-        "temMed": 162.0
+        "temMed": 162.0,
+        "oscilaciónTermica": 351
     },
     {
         "latitud": "383105N",
@@ -2989,7 +3124,8 @@
         "precMaxMen": 2290,
         "rachMax": 107,
         "dirRachMax": 880,
-        "temMed": 162.0
+        "temMed": 162.0,
+        "oscilaciónTermica": 331
     },
     {
         "latitud": "382955N",
@@ -3011,7 +3147,8 @@
         "precMaxMen": 1921,
         "rachMax": 93,
         "dirRachMax": 300,
-        "temMed": 171.5
+        "temMed": 171.5,
+        "oscilaciónTermica": 339
     },
     {
         "latitud": "392500N",
@@ -3033,7 +3170,8 @@
         "precMaxMen": 1014,
         "rachMax": 120,
         "dirRachMax": 340,
-        "temMed": 147.5
+        "temMed": 147.5,
+        "oscilaciónTermica": 315
     },
     {
         "latitud": "375207N",
@@ -3055,7 +3193,8 @@
         "precMaxMen": 4226,
         "rachMax": 116,
         "dirRachMax": 350,
-        "temMed": 182.5
+        "temMed": 182.5,
+        "oscilaciónTermica": 406
     },
     {
         "latitud": "371141N",
@@ -3077,7 +3216,8 @@
         "precMaxMen": 2346,
         "rachMax": 86,
         "dirRachMax": 320,
-        "temMed": 183.5
+        "temMed": 183.5,
+        "oscilaciónTermica": 413
     },
     {
         "latitud": "371642N",
@@ -3099,7 +3239,8 @@
         "precMaxMen": 3862,
         "rachMax": 117,
         "dirRachMax": 300,
-        "temMed": 187.0
+        "temMed": 187.0,
+        "oscilaciónTermica": 406
     },
     {
         "latitud": "371524N",
@@ -3121,7 +3262,8 @@
         "precMaxMen": 3360,
         "rachMax": 122,
         "dirRachMax": 340,
-        "temMed": 179.0
+        "temMed": 179.0,
+        "oscilaciónTermica": 372
     },
     {
         "latitud": "392931N",
@@ -3143,7 +3285,8 @@
         "precMaxMen": 1845,
         "rachMax": 125,
         "dirRachMax": 310,
-        "temMed": 159.0
+        "temMed": 159.0,
+        "oscilaciónTermica": 330
     },
     {
         "latitud": "393550N",
@@ -3165,7 +3308,8 @@
         "precMaxMen": 974,
         "rachMax": 96,
         "dirRachMax": 320,
-        "temMed": 158.5
+        "temMed": 158.5,
+        "oscilaciónTermica": 320
     },
     {
         "latitud": "362959N",
@@ -3187,7 +3331,8 @@
         "precMaxMen": 4598,
         "rachMax": 146,
         "dirRachMax": 230,
-        "temMed": 184.5
+        "temMed": 184.5,
+        "oscilaciónTermica": 420
     },
     {
         "latitud": "364538N",
@@ -3209,7 +3354,8 @@
         "precMaxMen": 11152,
         "rachMax": 106,
         "dirRachMax": 310,
-        "temMed": 144.5
+        "temMed": 144.5,
+        "oscilaciónTermica": 325
     },
     {
         "latitud": "364502N",
@@ -3231,7 +3377,8 @@
         "precMaxMen": 6089,
         "rachMax": 142,
         "dirRachMax": 270,
-        "temMed": 183.5
+        "temMed": 183.5,
+        "oscilaciónTermica": 397
     },
     {
         "latitud": "363820N",
@@ -3253,7 +3400,8 @@
         "precMaxMen": 4586,
         "rachMax": 115,
         "dirRachMax": 270,
-        "temMed": 182.0
+        "temMed": 182.0,
+        "oscilaciónTermica": 375
     },
     {
         "latitud": "362756N",
@@ -3275,7 +3423,8 @@
         "precMaxMen": 2697,
         "rachMax": 121,
         "dirRachMax": 300,
-        "temMed": 192.0
+        "temMed": 192.0,
+        "oscilaciónTermica": 417
     },
     {
         "latitud": "361444N",
@@ -3297,7 +3446,8 @@
         "precMaxMen": 3774,
         "rachMax": 156,
         "dirRachMax": 330,
-        "temMed": 192.0
+        "temMed": 192.0,
+        "oscilaciónTermica": 468
     },
     {
         "latitud": "355344N",
@@ -3319,7 +3469,8 @@
         "precMaxMen": 4888,
         "rachMax": 185,
         "dirRachMax": 320,
-        "temMed": 165.5
+        "temMed": 165.5,
+        "oscilaciónTermica": 381
     },
     {
         "latitud": "355319N",
@@ -3341,7 +3492,8 @@
         "precMaxMen": 3748,
         "rachMax": 93,
         "dirRachMax": 330,
-        "temMed": 198.0
+        "temMed": 198.0,
+        "oscilaciónTermica": 389
     },
     {
         "latitud": "375056N",
@@ -3363,7 +3515,8 @@
         "precMaxMen": 3550,
         "rachMax": 126,
         "dirRachMax": 350,
-        "temMed": 188.5
+        "temMed": 188.5,
+        "oscilaciónTermica": 387
     },
     {
         "latitud": "373322N",
@@ -3385,7 +3538,8 @@
         "precMaxMen": 2747,
         "rachMax": 106,
         "dirRachMax": 300,
-        "temMed": 175.5
+        "temMed": 175.5,
+        "oscilaciónTermica": 326
     },
     {
         "latitud": "381959N",
@@ -3407,7 +3561,8 @@
         "precMaxMen": 2332,
         "rachMax": 113,
         "dirRachMax": 330,
-        "temMed": 162.0
+        "temMed": 162.0,
+        "oscilaciónTermica": 313
     },
     {
         "latitud": "373021N",
@@ -3429,7 +3584,8 @@
         "precMaxMen": 1172,
         "rachMax": 125,
         "dirRachMax": 360,
-        "temMed": 165.5
+        "temMed": 165.5,
+        "oscilaciónTermica": 298
     },
     {
         "latitud": "371123N",
@@ -3451,7 +3607,8 @@
         "precMaxMen": 1951,
         "rachMax": 108,
         "dirRachMax": 300,
-        "temMed": 166.5
+        "temMed": 166.5,
+        "oscilaciónTermica": 315
     },
     {
         "latitud": "370814N",
@@ -3473,7 +3630,8 @@
         "precMaxMen": 1948,
         "rachMax": 126,
         "dirRachMax": 290,
-        "temMed": 161.0
+        "temMed": 161.0,
+        "oscilaciónTermica": 301
     },
     {
         "latitud": "375140N",
@@ -3495,7 +3653,8 @@
         "precMaxMen": 2094,
         "rachMax": 122,
         "dirRachMax": 320,
-        "temMed": 158.5
+        "temMed": 158.5,
+        "oscilaciónTermica": 274
     },
     {
         "latitud": "370940N",
@@ -3517,7 +3676,8 @@
         "precMaxMen": 2473,
         "rachMax": 87,
         "dirRachMax": 290,
-        "temMed": 179.0
+        "temMed": 179.0,
+        "oscilaciónTermica": 388
     },
     {
         "latitud": "370553N",
@@ -3539,7 +3699,8 @@
         "precMaxMen": 2936,
         "rachMax": 100,
         "dirRachMax": 270,
-        "temMed": 171.0
+        "temMed": 171.0,
+        "oscilaciónTermica": 398
     },
     {
         "latitud": "380123N",
@@ -3561,7 +3722,8 @@
         "precMaxMen": 2590,
         "rachMax": 83,
         "dirRachMax": 290,
-        "temMed": 179.5
+        "temMed": 179.5,
+        "oscilaciónTermica": 380
     },
     {
         "latitud": "381853N",
@@ -3583,7 +3745,8 @@
         "precMaxMen": 2174,
         "rachMax": 97,
         "dirRachMax": 270,
-        "temMed": 179.0
+        "temMed": 179.0,
+        "oscilaciónTermica": 329
     },
     {
         "latitud": "375457N",
@@ -3605,7 +3768,8 @@
         "precMaxMen": 2427,
         "rachMax": 95,
         "dirRachMax": 260,
-        "temMed": 186.0
+        "temMed": 186.0,
+        "oscilaciónTermica": 389
     },
     {
         "latitud": "374635N",
@@ -3627,7 +3791,8 @@
         "precMaxMen": 2943,
         "rachMax": 144,
         "dirRachMax": 270,
-        "temMed": 176.0
+        "temMed": 176.0,
+        "oscilaciónTermica": 380
     },
     {
         "latitud": "374639N",
@@ -3649,7 +3814,8 @@
         "precMaxMen": 3005,
         "rachMax": 137,
         "dirRachMax": 290,
-        "temMed": 187.5
+        "temMed": 187.5,
+        "oscilaciónTermica": 366
     },
     {
         "latitud": "382040N",
@@ -3671,7 +3837,8 @@
         "precMaxMen": 3698,
         "rachMax": 103,
         "dirRachMax": 340,
-        "temMed": 181.0
+        "temMed": 181.0,
+        "oscilaciónTermica": 343
     },
     {
         "latitud": "382921N",
@@ -3693,7 +3860,8 @@
         "precMaxMen": 3850,
         "rachMax": 117,
         "dirRachMax": 250,
-        "temMed": 171.5
+        "temMed": 171.5,
+        "oscilaciónTermica": 343
     },
     {
         "latitud": "375535N",
@@ -3715,7 +3883,8 @@
         "precMaxMen": 3342,
         "rachMax": 95,
         "dirRachMax": 340,
-        "temMed": 162.5
+        "temMed": 162.5,
+        "oscilaciónTermica": 363
     },
     {
         "latitud": "373058N",
@@ -3737,7 +3906,8 @@
         "precMaxMen": 2835,
         "rachMax": 104,
         "dirRachMax": 330,
-        "temMed": 182.0
+        "temMed": 182.0,
+        "oscilaciónTermica": 355
     },
     {
         "latitud": "371140N",
@@ -3759,7 +3929,8 @@
         "precMaxMen": 2166,
         "rachMax": 98,
         "dirRachMax": 310,
-        "temMed": 178.0
+        "temMed": 178.0,
+        "oscilaciónTermica": 354
     },
     {
         "latitud": "370952N",
@@ -3781,7 +3952,8 @@
         "precMaxMen": 3849,
         "rachMax": 135,
         "dirRachMax": 290,
-        "temMed": 179.0
+        "temMed": 179.0,
+        "oscilaciónTermica": 386
     },
     {
         "latitud": "372500N",
@@ -3803,7 +3975,8 @@
         "precMaxMen": 3611,
         "rachMax": 136,
         "dirRachMax": 340,
-        "temMed": 188.5
+        "temMed": 188.5,
+        "oscilaciónTermica": 411
     },
     {
         "latitud": "370829N",
@@ -3825,7 +3998,8 @@
         "precMaxMen": 1197,
         "rachMax": 123,
         "dirRachMax": 340,
-        "temMed": 174.5
+        "temMed": 174.5,
+        "oscilaciónTermica": 323
     },
     {
         "latitud": "364450N",
@@ -3847,7 +4021,8 @@
         "precMaxMen": 1910,
         "rachMax": 115,
         "dirRachMax": 880,
-        "temMed": 199.5
+        "temMed": 199.5,
+        "oscilaciónTermica": 354
     },
     {
         "latitud": "355618N",
@@ -3869,7 +4044,8 @@
         "precMaxMen": 1500,
         "rachMax": 145,
         "dirRachMax": 320,
-        "temMed": 137.5
+        "temMed": 137.5,
+        "oscilaciónTermica": 370
     },
     {
         "latitud": "365047N",
@@ -3891,7 +4067,8 @@
         "precMaxMen": 1545,
         "rachMax": 137,
         "dirRachMax": 340,
-        "temMed": 197.5
+        "temMed": 197.5,
+        "oscilaciónTermica": 415
     },
     {
         "latitud": "364952N",
@@ -3913,7 +4090,8 @@
         "precMaxMen": 1935,
         "rachMax": 119,
         "dirRachMax": 360,
-        "temMed": 182.5
+        "temMed": 182.5,
+        "oscilaciónTermica": 394
     },
     {
         "latitud": "365849N",
@@ -3935,7 +4113,8 @@
         "precMaxMen": 1280,
         "rachMax": 120,
         "dirRachMax": 300,
-        "temMed": 192.0
+        "temMed": 192.0,
+        "oscilaciónTermica": 388
     },
     {
         "latitud": "372326N",
@@ -3957,7 +4136,8 @@
         "precMaxMen": 3183,
         "rachMax": 121,
         "dirRachMax": 320,
-        "temMed": 187.0
+        "temMed": 187.0,
+        "oscilaciónTermica": 392
     },
     {
         "latitud": "364113N",
@@ -3979,7 +4159,8 @@
         "precMaxMen": 1486,
         "rachMax": 125,
         "dirRachMax": 300,
-        "temMed": 181.5
+        "temMed": 181.5,
+        "oscilaciónTermica": 368
     },
     {
         "latitud": "360050N",
@@ -4001,7 +4182,8 @@
         "precMaxMen": 4779,
         "rachMax": 166,
         "dirRachMax": 290,
-        "temMed": 180.0
+        "temMed": 180.0,
+        "oscilaciónTermica": 341
     },
     {
         "latitud": "364322N",
@@ -4023,7 +4205,8 @@
         "precMaxMen": 1306,
         "rachMax": 89,
         "dirRachMax": 310,
-        "temMed": 186.5
+        "temMed": 186.5,
+        "oscilaciónTermica": 337
     },
     {
         "latitud": "370146N",
@@ -4045,7 +4228,8 @@
         "precMaxMen": 3459,
         "rachMax": 75,
         "dirRachMax": 360,
-        "temMed": 176.5
+        "temMed": 176.5,
+        "oscilaciónTermica": 319
     },
     {
         "latitud": "362501N",
@@ -4067,7 +4251,8 @@
         "precMaxMen": 4584,
         "rachMax": 95,
         "dirRachMax": 270,
-        "temMed": 191.5
+        "temMed": 191.5,
+        "oscilaciónTermica": 432
     },
     {
         "latitud": "363219N",
@@ -4089,7 +4274,8 @@
         "precMaxMen": 3123,
         "rachMax": 106,
         "dirRachMax": 320,
-        "temMed": 202.5
+        "temMed": 202.5,
+        "oscilaciónTermica": 362
     },
     {
         "latitud": "363958N",
@@ -4111,7 +4297,8 @@
         "precMaxMen": 4974,
         "rachMax": 130,
         "dirRachMax": 340,
-        "temMed": 186.0
+        "temMed": 186.0,
+        "oscilaciónTermica": 404
     },
     {
         "latitud": "364304N",
@@ -4133,7 +4320,8 @@
         "precMaxMen": 2844,
         "rachMax": 93,
         "dirRachMax": 310,
-        "temMed": 200.0
+        "temMed": 200.0,
+        "oscilaciónTermica": 421
     },
     {
         "latitud": "364300N",
@@ -4155,7 +4343,8 @@
         "precMaxMen": 2174,
         "rachMax": 91,
         "dirRachMax": 320,
-        "temMed": 198.5
+        "temMed": 198.5,
+        "oscilaciónTermica": 407
     },
     {
         "latitud": "364459N",
@@ -4177,7 +4366,8 @@
         "precMaxMen": 1977,
         "rachMax": 89,
         "dirRachMax": 290,
-        "temMed": 174.5
+        "temMed": 174.5,
+        "oscilaciónTermica": 349
     },
     {
         "latitud": "364335N",
@@ -4199,7 +4389,8 @@
         "precMaxMen": 2054,
         "rachMax": 96,
         "dirRachMax": 280,
-        "temMed": 195.0
+        "temMed": 195.0,
+        "oscilaciónTermica": 353
     },
     {
         "latitud": "351635N",
@@ -4221,7 +4412,8 @@
         "precMaxMen": 2930,
         "rachMax": 138,
         "dirRachMax": 300,
-        "temMed": 198.5
+        "temMed": 198.5,
+        "oscilaciónTermica": 414
     },
     {
         "latitud": "383231N",
@@ -4243,7 +4435,8 @@
         "precMaxMen": 1630,
         "rachMax": 115,
         "dirRachMax": 360,
-        "temMed": 175.5
+        "temMed": 175.5,
+        "oscilaciónTermica": 399
     },
     {
         "latitud": "382359N",
@@ -4265,7 +4458,8 @@
         "precMaxMen": 2204,
         "rachMax": 141,
         "dirRachMax": 310,
-        "temMed": 160.0
+        "temMed": 160.0,
+        "oscilaciónTermica": 308
     },
     {
         "latitud": "372502N",
@@ -4287,7 +4481,8 @@
         "precMaxMen": 3302,
         "rachMax": 102,
         "dirRachMax": 310,
-        "temMed": 195.5
+        "temMed": 195.5,
+        "oscilaciónTermica": 382
     },
     {
         "latitud": "375728N",
@@ -4309,7 +4504,8 @@
         "precMaxMen": 2573,
         "rachMax": 103,
         "dirRachMax": 340,
-        "temMed": 183.0
+        "temMed": 183.0,
+        "oscilaciónTermica": 401
     },
     {
         "latitud": "380609N",
@@ -4331,7 +4527,8 @@
         "precMaxMen": 2210,
         "rachMax": 105,
         "dirRachMax": 310,
-        "temMed": 168.5
+        "temMed": 168.5,
+        "oscilaciónTermica": 354
     },
     {
         "latitud": "373604N",
@@ -4353,7 +4550,8 @@
         "precMaxMen": 2230,
         "rachMax": 102,
         "dirRachMax": 280,
-        "temMed": 198.5
+        "temMed": 198.5,
+        "oscilaciónTermica": 370
     },
     {
         "latitud": "381358N",
@@ -4375,7 +4573,8 @@
         "precMaxMen": 2421,
         "rachMax": 95,
         "dirRachMax": 340,
-        "temMed": 182.5
+        "temMed": 182.5,
+        "oscilaciónTermica": 366
     },
     {
         "latitud": "373917N",
@@ -4397,7 +4596,8 @@
         "precMaxMen": 2074,
         "rachMax": 100,
         "dirRachMax": 330,
-        "temMed": 177.0
+        "temMed": 177.0,
+        "oscilaciónTermica": 390
     },
     {
         "latitud": "380007N",
@@ -4419,7 +4619,8 @@
         "precMaxMen": 2308,
         "rachMax": 108,
         "dirRachMax": 320,
-        "temMed": 190.5
+        "temMed": 190.5,
+        "oscilaciónTermica": 382
     },
     {
         "latitud": "374720N",
@@ -4441,7 +4642,8 @@
         "precMaxMen": 3362,
         "rachMax": 134,
         "dirRachMax": 360,
-        "temMed": 173.0
+        "temMed": 173.0,
+        "oscilaciónTermica": 351
     },
     {
         "latitud": "374642N",
@@ -4463,7 +4665,8 @@
         "precMaxMen": 2496,
         "rachMax": 104,
         "dirRachMax": 320,
-        "temMed": 187.5
+        "temMed": 187.5,
+        "oscilaciónTermica": 381
     },
     {
         "latitud": "383606N",
@@ -4485,7 +4688,8 @@
         "precMaxMen": 1556,
         "rachMax": 123,
         "dirRachMax": 290,
-        "temMed": 161.0
+        "temMed": 161.0,
+        "oscilaciónTermica": 325
     },
     {
         "latitud": "385715N",
@@ -4507,7 +4711,8 @@
         "precMaxMen": 2266,
         "rachMax": 157,
         "dirRachMax": 340,
-        "temMed": 142.0
+        "temMed": 142.0,
+        "oscilaciónTermica": 186
     },
     {
         "latitud": "390021N",
@@ -4529,7 +4734,8 @@
         "precMaxMen": 1621,
         "rachMax": 113,
         "dirRachMax": 290,
-        "temMed": 165.5
+        "temMed": 165.5,
+        "oscilaciónTermica": 225
     },
     {
         "latitud": "385609N",
@@ -4551,7 +4757,8 @@
         "precMaxMen": 1531,
         "rachMax": 114,
         "dirRachMax": 310,
-        "temMed": 153.0
+        "temMed": 153.0,
+        "oscilaciónTermica": 296
     },
     {
         "latitud": "382221N",
@@ -4573,7 +4780,8 @@
         "precMaxMen": 3093,
         "rachMax": 120,
         "dirRachMax": 330,
-        "temMed": 180.0
+        "temMed": 180.0,
+        "oscilaciónTermica": 368
     },
     {
         "latitud": "381658N",
@@ -4595,7 +4803,8 @@
         "precMaxMen": 2675,
         "rachMax": 167,
         "dirRachMax": 360,
-        "temMed": 187.5
+        "temMed": 187.5,
+        "oscilaciónTermica": 376
     },
     {
         "latitud": "384701N",
@@ -4617,7 +4826,8 @@
         "precMaxMen": 3460,
         "rachMax": 143,
         "dirRachMax": 350,
-        "temMed": 181.0
+        "temMed": 181.0,
+        "oscilaciónTermica": 359
     },
     {
         "latitud": "395726N",
@@ -4639,7 +4849,8 @@
         "precMaxMen": 3298,
         "rachMax": 113,
         "dirRachMax": 340,
-        "temMed": 177.5
+        "temMed": 177.5,
+        "oscilaciónTermica": 362
     },
     {
         "latitud": "395921N",
@@ -4661,7 +4872,8 @@
         "precMaxMen": 3966,
         "rachMax": null,
         "dirRachMax": null,
-        "temMed": 164.5
+        "temMed": 164.5,
+        "oscilaciónTermica": 319
     },
     {
         "latitud": "402600N",
@@ -4683,7 +4895,8 @@
         "precMaxMen": 3088,
         "rachMax": 147,
         "dirRachMax": 340,
-        "temMed": 127.0
+        "temMed": 127.0,
+        "oscilaciónTermica": 257
     },
     {
         "latitud": "403315N",
@@ -4705,7 +4918,8 @@
         "precMaxMen": 4464,
         "rachMax": 121,
         "dirRachMax": 360,
-        "temMed": 172.0
+        "temMed": 172.0,
+        "oscilaciónTermica": 345
     },
     {
         "latitud": "400402N",
@@ -4727,7 +4941,8 @@
         "precMaxMen": 1821,
         "rachMax": 113,
         "dirRachMax": 320,
-        "temMed": 134.5
+        "temMed": 134.5,
+        "oscilaciónTermica": 219
     },
     {
         "latitud": "402102N",
@@ -4749,7 +4964,8 @@
         "precMaxMen": 1448,
         "rachMax": 122,
         "dirRachMax": 350,
-        "temMed": 126.0
+        "temMed": 126.0,
+        "oscilaciónTermica": 212
     },
     {
         "latitud": "385544N",
@@ -4771,7 +4987,8 @@
         "precMaxMen": 3526,
         "rachMax": 114,
         "dirRachMax": 880,
-        "temMed": 185.5
+        "temMed": 185.5,
+        "oscilaciónTermica": 393
     },
     {
         "latitud": "391105N",
@@ -4793,7 +5010,8 @@
         "precMaxMen": 3307,
         "rachMax": 109,
         "dirRachMax": 330,
-        "temMed": 172.5
+        "temMed": 172.5,
+        "oscilaciónTermica": 393
     },
     {
         "latitud": "393432N",
@@ -4815,7 +5033,8 @@
         "precMaxMen": 1492,
         "rachMax": 117,
         "dirRachMax": 360,
-        "temMed": 144.5
+        "temMed": 144.5,
+        "oscilaciónTermica": 249
     },
     {
         "latitud": "392906N",
@@ -4837,7 +5056,8 @@
         "precMaxMen": 3736,
         "rachMax": 153,
         "dirRachMax": 360,
-        "temMed": 177.0
+        "temMed": 177.0,
+        "oscilaciónTermica": 380
     },
     {
         "latitud": "392850N",
@@ -4859,7 +5079,8 @@
         "precMaxMen": 3082,
         "rachMax": 88,
         "dirRachMax": 360,
-        "temMed": 187.5
+        "temMed": 187.5,
+        "oscilaciónTermica": 424
     },
     {
         "latitud": "392850N",
@@ -4881,7 +5102,8 @@
         "precMaxMen": 3656,
         "rachMax": 117,
         "dirRachMax": 270,
-        "temMed": 171.5
+        "temMed": 171.5,
+        "oscilaciónTermica": 358
     },
     {
         "latitud": "390006N",
@@ -4903,7 +5125,8 @@
         "precMaxMen": 4194,
         "rachMax": 114,
         "dirRachMax": 350,
-        "temMed": 192.0
+        "temMed": 192.0,
+        "oscilaciónTermica": 402
     },
     {
         "latitud": "425255N",
@@ -4925,7 +5148,8 @@
         "precMaxMen": 2530,
         "rachMax": 128,
         "dirRachMax": 260,
-        "temMed": 120.5
+        "temMed": 120.5,
+        "oscilaciónTermica": 230
     },
     {
         "latitud": "425059N",
@@ -4947,7 +5171,8 @@
         "precMaxMen": 2919,
         "rachMax": null,
         "dirRachMax": null,
-        "temMed": 90.0
+        "temMed": 90.0,
+        "oscilaciónTermica": 188
     },
     {
         "latitud": "425219N",
@@ -4969,7 +5194,8 @@
         "precMaxMen": 2242,
         "rachMax": 115,
         "dirRachMax": 260,
-        "temMed": 127.0
+        "temMed": 127.0,
+        "oscilaciónTermica": 323
     },
     {
         "latitud": "422516N",
@@ -4991,7 +5217,8 @@
         "precMaxMen": 2923,
         "rachMax": 111,
         "dirRachMax": 270,
-        "temMed": 106.0
+        "temMed": 106.0,
+        "oscilaciónTermica": 242
     },
     {
         "latitud": "425512N",
@@ -5013,7 +5240,8 @@
         "precMaxMen": 2150,
         "rachMax": 152,
         "dirRachMax": 250,
-        "temMed": 124.0
+        "temMed": 124.0,
+        "oscilaciónTermica": 271
     },
     {
         "latitud": "425931N",
@@ -5035,7 +5263,8 @@
         "precMaxMen": 3094,
         "rachMax": 142,
         "dirRachMax": 250,
-        "temMed": 97.0
+        "temMed": 97.0,
+        "oscilaciónTermica": 186
     },
     {
         "latitud": "424823N",
@@ -5057,7 +5286,8 @@
         "precMaxMen": 1597,
         "rachMax": 96,
         "dirRachMax": 260,
-        "temMed": 115.0
+        "temMed": 115.0,
+        "oscilaciónTermica": 247
     },
     {
         "latitud": "402955N",
@@ -5079,7 +5309,8 @@
         "precMaxMen": 4642,
         "rachMax": 154,
         "dirRachMax": 360,
-        "temMed": 122.0
+        "temMed": 122.0,
+        "oscilaciónTermica": 240
     },
     {
         "latitud": "421957N",
@@ -5101,7 +5332,8 @@
         "precMaxMen": 4110,
         "rachMax": 130,
         "dirRachMax": 360,
-        "temMed": 56.0
+        "temMed": 56.0,
+        "oscilaciónTermica": 100
     },
     {
         "latitud": "424232N",
@@ -5123,7 +5355,8 @@
         "precMaxMen": 3252,
         "rachMax": 125,
         "dirRachMax": 360,
-        "temMed": 124.0
+        "temMed": 124.0,
+        "oscilaciónTermica": 251
     },
     {
         "latitud": "423748N",
@@ -5145,7 +5378,8 @@
         "precMaxMen": 3280,
         "rachMax": 104,
         "dirRachMax": 360,
-        "temMed": 117.0
+        "temMed": 117.0,
+        "oscilaciónTermica": 259
     },
     {
         "latitud": "420504N",
@@ -5167,7 +5401,8 @@
         "precMaxMen": 2364,
         "rachMax": 136,
         "dirRachMax": 340,
-        "temMed": 136.5
+        "temMed": 136.5,
+        "oscilaciónTermica": 294
     },
     {
         "latitud": "423444N",
@@ -5189,7 +5424,8 @@
         "precMaxMen": 2061,
         "rachMax": 137,
         "dirRachMax": 340,
-        "temMed": 123.5
+        "temMed": 123.5,
+        "oscilaciónTermica": 255
     },
     {
         "latitud": "423736N",
@@ -5211,7 +5447,8 @@
         "precMaxMen": 3028,
         "rachMax": 102,
         "dirRachMax": 260,
-        "temMed": 119.5
+        "temMed": 119.5,
+        "oscilaciónTermica": 257
     },
     {
         "latitud": "422708N",
@@ -5233,7 +5470,8 @@
         "precMaxMen": 1994,
         "rachMax": 126,
         "dirRachMax": 320,
-        "temMed": 133.5
+        "temMed": 133.5,
+        "oscilaciónTermica": 312
     },
     {
         "latitud": "422117N",
@@ -5255,7 +5493,8 @@
         "precMaxMen": 2870,
         "rachMax": 78,
         "dirRachMax": 360,
-        "temMed": 126.0
+        "temMed": 126.0,
+        "oscilaciónTermica": 280
     },
     {
         "latitud": "413702N",
@@ -5277,7 +5516,8 @@
         "precMaxMen": 1492,
         "rachMax": 97,
         "dirRachMax": 320,
-        "temMed": 146.0
+        "temMed": 146.0,
+        "oscilaciónTermica": 274
     },
     {
         "latitud": "413734N",
@@ -5299,7 +5539,8 @@
         "precMaxMen": 1289,
         "rachMax": 126,
         "dirRachMax": 300,
-        "temMed": 143.0
+        "temMed": 143.0,
+        "oscilaciónTermica": 292
     },
     {
         "latitud": "424201N",
@@ -5321,7 +5562,8 @@
         "precMaxMen": 2026,
         "rachMax": 82,
         "dirRachMax": 340,
-        "temMed": 90.5
+        "temMed": 90.5,
+        "oscilaciónTermica": 198
     },
     {
         "latitud": "421219N",
@@ -5343,7 +5585,8 @@
         "precMaxMen": 1540,
         "rachMax": 123,
         "dirRachMax": 360,
-        "temMed": 139.0
+        "temMed": 139.0,
+        "oscilaciónTermica": 302
     },
     {
         "latitud": "413902N",
@@ -5365,7 +5608,8 @@
         "precMaxMen": 1347,
         "rachMax": 83,
         "dirRachMax": 340,
-        "temMed": 133.5
+        "temMed": 133.5,
+        "oscilaciónTermica": 249
     },
     {
         "latitud": "424634N",
@@ -5387,7 +5631,8 @@
         "precMaxMen": 2057,
         "rachMax": 88,
         "dirRachMax": 300,
-        "temMed": 129.5
+        "temMed": 129.5,
+        "oscilaciónTermica": 311
     },
     {
         "latitud": "421155N",
@@ -5409,7 +5654,8 @@
         "precMaxMen": 1813,
         "rachMax": 113,
         "dirRachMax": 350,
-        "temMed": 148.0
+        "temMed": 148.0,
+        "oscilaciónTermica": 323
     },
     {
         "latitud": "421225N",
@@ -5431,7 +5677,8 @@
         "precMaxMen": 1509,
         "rachMax": 121,
         "dirRachMax": 340,
-        "temMed": 141.0
+        "temMed": 141.0,
+        "oscilaciónTermica": 280
     },
     {
         "latitud": "424637N",
@@ -5453,7 +5700,8 @@
         "precMaxMen": 2441,
         "rachMax": 130,
         "dirRachMax": 350,
-        "temMed": 132.5
+        "temMed": 132.5,
+        "oscilaciónTermica": 252
     },
     {
         "latitud": "424904N",
@@ -5475,7 +5723,8 @@
         "precMaxMen": 3376,
         "rachMax": null,
         "dirRachMax": null,
-        "temMed": 119.5
+        "temMed": 119.5,
+        "oscilaciónTermica": 254
     },
     {
         "latitud": "404913N",
@@ -5497,7 +5746,8 @@
         "precMaxMen": 3820,
         "rachMax": 159,
         "dirRachMax": 320,
-        "temMed": 170.5
+        "temMed": 170.5,
+        "oscilaciónTermica": 366
     },
     {
         "latitud": "404157N",
@@ -5519,7 +5769,8 @@
         "precMaxMen": 3221,
         "rachMax": 139,
         "dirRachMax": 880,
-        "temMed": 175.0
+        "temMed": 175.0,
+        "oscilaciónTermica": 349
     },
     {
         "latitud": "410329N",
@@ -5541,7 +5792,8 @@
         "precMaxMen": 1558,
         "rachMax": 111,
         "dirRachMax": 350,
-        "temMed": 152.0
+        "temMed": 152.0,
+        "oscilaciónTermica": 328
     },
     {
         "latitud": "405154N",
@@ -5563,7 +5815,8 @@
         "precMaxMen": 1580,
         "rachMax": null,
         "dirRachMax": null,
-        "temMed": 109.0
+        "temMed": 109.0,
+        "oscilaciónTermica": 100
     },
     {
         "latitud": "405534N",
@@ -5585,7 +5838,8 @@
         "precMaxMen": 1262,
         "rachMax": 133,
         "dirRachMax": 360,
-        "temMed": 121.0
+        "temMed": 121.0,
+        "oscilaciónTermica": 195
     },
     {
         "latitud": "405648N",
@@ -5607,7 +5861,8 @@
         "precMaxMen": 2066,
         "rachMax": 111,
         "dirRachMax": 310,
-        "temMed": 151.5
+        "temMed": 151.5,
+        "oscilaciónTermica": 352
     },
     {
         "latitud": "413121N",
@@ -5629,7 +5884,8 @@
         "precMaxMen": 1184,
         "rachMax": 130,
         "dirRachMax": 340,
-        "temMed": 138.0
+        "temMed": 138.0,
+        "oscilaciónTermica": 263
     },
     {
         "latitud": "411952N",
@@ -5651,7 +5907,8 @@
         "precMaxMen": 1578,
         "rachMax": 134,
         "dirRachMax": 350,
-        "temMed": 139.5
+        "temMed": 139.5,
+        "oscilaciónTermica": 283
     },
     {
         "latitud": "410652N",
@@ -5673,7 +5930,8 @@
         "precMaxMen": 1730,
         "rachMax": 108,
         "dirRachMax": 260,
-        "temMed": 124.5
+        "temMed": 124.5,
+        "oscilaciónTermica": 186
     },
     {
         "latitud": "422927N",
@@ -5695,7 +5953,8 @@
         "precMaxMen": 2112,
         "rachMax": 126,
         "dirRachMax": 360,
-        "temMed": 142.0
+        "temMed": 142.0,
+        "oscilaciónTermica": 269
     },
     {
         "latitud": "413938N",
@@ -5717,7 +5976,8 @@
         "precMaxMen": 1759,
         "rachMax": 135,
         "dirRachMax": 340,
-        "temMed": 148.5
+        "temMed": 148.5,
+        "oscilaciónTermica": 331
     },
     {
         "latitud": "413715N",
@@ -5739,7 +5999,8 @@
         "precMaxMen": 1142,
         "rachMax": 122,
         "dirRachMax": 340,
-        "temMed": 168.0
+        "temMed": 168.0,
+        "oscilaciónTermica": 393
     },
     {
         "latitud": "394300N",
@@ -5761,7 +6022,8 @@
         "precMaxMen": 1904,
         "rachMax": 145,
         "dirRachMax": 360,
-        "temMed": 189.5
+        "temMed": 189.5,
+        "oscilaciónTermica": 384
     },
     {
         "latitud": "394924N",
@@ -5783,7 +6045,8 @@
         "precMaxMen": 5615,
         "rachMax": 148,
         "dirRachMax": 260,
-        "temMed": 149.0
+        "temMed": 149.0,
+        "oscilaciónTermica": 343
     },
     {
         "latitud": "385235N",
@@ -5805,7 +6068,8 @@
         "precMaxMen": 2448,
         "rachMax": 130,
         "dirRachMax": 360,
-        "temMed": 180.0
+        "temMed": 180.0,
+        "oscilaciónTermica": 354
     },
     {
         "latitud": "395117N",
@@ -5827,7 +6091,8 @@
         "precMaxMen": 2589,
         "rachMax": 144,
         "dirRachMax": 360,
-        "temMed": 182.5
+        "temMed": 182.5,
+        "oscilaciónTermica": 372
     },
     {
         "latitud": "393339N",
@@ -5849,7 +6114,8 @@
         "precMaxMen": 2418,
         "rachMax": 130,
         "dirRachMax": 330,
-        "temMed": 163.5
+        "temMed": 163.5,
+        "oscilaciónTermica": 314
     },
     {
         "latitud": "393319N",
@@ -5871,7 +6137,8 @@
         "precMaxMen": 2518,
         "rachMax": 117,
         "dirRachMax": 360,
-        "temMed": 189.5
+        "temMed": 189.5,
+        "oscilaciónTermica": 379
     },
     {
         "latitud": "393118N",
@@ -5893,7 +6160,8 @@
         "precMaxMen": 2142,
         "rachMax": 99,
         "dirRachMax": 360,
-        "temMed": 179.0
+        "temMed": 179.0,
+        "oscilaciónTermica": 381
     },
     {
         "latitud": "392452N",
@@ -5915,7 +6183,8 @@
         "precMaxMen": 3174,
         "rachMax": 121,
         "dirRachMax": 320,
-        "temMed": 182.0
+        "temMed": 182.0,
+        "oscilaciónTermica": 405
     },
     {
         "latitud": "394457N",
@@ -5937,7 +6206,8 @@
         "precMaxMen": 2334,
         "rachMax": 111,
         "dirRachMax": 360,
-        "temMed": 176.5
+        "temMed": 176.5,
+        "oscilaciónTermica": 395
     },
     {
         "latitud": "394406N",
@@ -5959,7 +6229,8 @@
         "precMaxMen": 5669,
         "rachMax": 196,
         "dirRachMax": 360,
-        "temMed": 124.5
+        "temMed": 124.5,
+        "oscilaciónTermica": 270
     },
     {
         "latitud": "282641N",
@@ -5981,7 +6252,8 @@
         "precMaxMen": 1435,
         "rachMax": 120,
         "dirRachMax": 300,
-        "temMed": 216.5
+        "temMed": 216.5,
+        "oscilaciónTermica": 350
     },
     {
         "latitud": "275504N",
@@ -6003,7 +6275,8 @@
         "precMaxMen": 2337,
         "rachMax": 113,
         "dirRachMax": 360,
-        "temMed": 210.5
+        "temMed": 210.5,
+        "oscilaciónTermica": 377
     },
     {
         "latitud": "280003N",
@@ -6025,7 +6298,8 @@
         "precMaxMen": 964,
         "rachMax": 152,
         "dirRachMax": 340,
-        "temMed": 204.5
+        "temMed": 204.5,
+        "oscilaciónTermica": 317
     },
     {
         "latitud": "285707N",
@@ -6047,7 +6321,8 @@
         "precMaxMen": 1273,
         "rachMax": 132,
         "dirRachMax": 360,
-        "temMed": 215.0
+        "temMed": 215.0,
+        "oscilaciónTermica": 360
     },
     {
         "latitud": "280647N",
@@ -6069,7 +6344,8 @@
         "precMaxMen": 1423,
         "rachMax": 89,
         "dirRachMax": 350,
-        "temMed": 213.0
+        "temMed": 213.0,
+        "oscilaciónTermica": 203
     },
     {
         "latitud": "280523N",
@@ -6091,7 +6367,8 @@
         "precMaxMen": 1395,
         "rachMax": 116,
         "dirRachMax": 330,
-        "temMed": 213.0
+        "temMed": 213.0,
+        "oscilaciónTermica": 337
     },
     {
         "latitud": "274409N",
@@ -6113,7 +6390,8 @@
         "precMaxMen": 946,
         "rachMax": 134,
         "dirRachMax": 300,
-        "temMed": 208.5
+        "temMed": 208.5,
+        "oscilaciónTermica": 319
     },
     {
         "latitud": "274859N",
@@ -6135,7 +6413,8 @@
         "precMaxMen": 593,
         "rachMax": 118,
         "dirRachMax": 260,
-        "temMed": 219.5
+        "temMed": 219.5,
+        "oscilaciónTermica": 303
     },
     {
         "latitud": "280257N",
@@ -6157,7 +6436,8 @@
         "precMaxMen": 586,
         "rachMax": 131,
         "dirRachMax": 360,
-        "temMed": 224.0
+        "temMed": 224.0,
+        "oscilaciónTermica": 343
     },
     {
         "latitud": "291355N",
@@ -6179,7 +6459,8 @@
         "precMaxMen": 1286,
         "rachMax": 104,
         "dirRachMax": 270,
-        "temMed": 205.5
+        "temMed": 205.5,
+        "oscilaciónTermica": 283
     },
     {
         "latitud": "281906N",
@@ -6201,7 +6482,8 @@
         "precMaxMen": 2680,
         "rachMax": 80,
         "dirRachMax": 70,
-        "temMed": 202.5
+        "temMed": 202.5,
+        "oscilaciónTermica": 291
     },
     {
         "latitud": "274908N",
@@ -6223,7 +6505,8 @@
         "precMaxMen": 4197,
         "rachMax": 136,
         "dirRachMax": 360,
-        "temMed": 210.0
+        "temMed": 210.0,
+        "oscilaciónTermica": 262
     },
     {
         "latitud": "281832N",
@@ -6245,7 +6528,8 @@
         "precMaxMen": 9574,
         "rachMax": 248,
         "dirRachMax": 880,
-        "temMed": 97.5
+        "temMed": 97.5,
+        "oscilaciónTermica": 206
     },
     {
         "latitud": "283759N",
@@ -6267,7 +6551,8 @@
         "precMaxMen": 3358,
         "rachMax": 162,
         "dirRachMax": 320,
-        "temMed": 210.5
+        "temMed": 210.5,
+        "oscilaciónTermica": 290
     },
     {
         "latitud": "282505N",
@@ -6289,7 +6574,8 @@
         "precMaxMen": 3442,
         "rachMax": 168,
         "dirRachMax": 320,
-        "temMed": 210.0
+        "temMed": 210.0,
+        "oscilaciónTermica": 249
     },
     {
         "latitud": "280523N",
@@ -6311,7 +6597,8 @@
         "precMaxMen": 1514,
         "rachMax": 103,
         "dirRachMax": 360,
-        "temMed": 220.5
+        "temMed": 220.5,
+        "oscilaciónTermica": 284
     },
     {
         "latitud": "282748N",
@@ -6333,7 +6620,8 @@
         "precMaxMen": 2735,
         "rachMax": 162,
         "dirRachMax": 340,
-        "temMed": 218.0
+        "temMed": 218.0,
+        "oscilaciónTermica": 345
     },
     {
         "latitud": "283545N",
@@ -6355,7 +6643,8 @@
         "precMaxMen": 1554,
         "rachMax": 98,
         "dirRachMax": 360,
-        "temMed": 216.0
+        "temMed": 216.0,
+        "oscilaciónTermica": 321
     },
     {
         "latitud": "282839N",
@@ -6377,7 +6666,8 @@
         "precMaxMen": 4481,
         "rachMax": 147,
         "dirRachMax": 360,
-        "temMed": 174.5
+        "temMed": 174.5,
+        "oscilaciónTermica": 394
     },
     {
         "latitud": "280249N",
@@ -6399,6 +6689,7 @@
         "precMaxMen": 2128,
         "rachMax": 134,
         "dirRachMax": 290,
-        "temMed": 220.0
+        "temMed": 220.0,
+        "oscilaciónTermica": 353
     }
 ]
