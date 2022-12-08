@@ -3,7 +3,13 @@ from pyclustering.cluster.xmeans import xmeans
 from pyclustering.cluster.center_initializer import kmeans_plusplus_initializer
 from pyclustering.utils import read_sample
 from pyclustering.samples.definitions import SIMPLE_SAMPLES
- 
+import json
+
+dataset = []
+with open("dataset/infoRecortada.json", "r") as fr:
+    json_dataset = json.loads(fr.read())
+    
+
 # Read sample 'simple3' from file.
 sample = read_sample(SIMPLE_SAMPLES.SAMPLE_SIMPLE3)
  
