@@ -5,6 +5,7 @@ import requests
 import json
 import time 
 
+
 def add_coords_to_station():
     dataset = []
     with open("dataset/allStations", "r") as stations_r:
@@ -23,8 +24,6 @@ def add_coords_to_station():
     
         with open("dataset/infoStations", "w") as temp_w:
             temp_w.write(json.dumps(dataset))
-
-
 
 
 

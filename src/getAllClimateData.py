@@ -35,6 +35,7 @@ for property in ["P", "V"]:
 
             try:
                 resp = requests.request("GET", url.format(property, indicativo), headers=headers, params=querystring)
+
                 json_resp = json.loads(resp.text)
                 dataUrl = json_resp["datos"]
 
