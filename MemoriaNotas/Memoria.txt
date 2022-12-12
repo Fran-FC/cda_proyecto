@@ -27,3 +27,4 @@ Para cada columna
     calcular desviacionestandar y media 
 a cada valor 
         valor-media/desviacionestandar
+https://docs.google.com/presentation/d/1fKoR5EDnUTcSLfIodLJMc-STjQ3qRs0bSfekx2lJn3M/edit?usp=sharing
