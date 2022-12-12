@@ -1,40 +1,48 @@
-##https://uc-r.github.io/kmeans_clustering
-# install.packages("rjson")
-# install.packages("tidyverse")
-# install.packages("cluster")
-# install.packages("factoextra")
-# install.packages("jsonlite")
 library(jsonlite)
 library("tidyverse")  # data manipulation
 library("cluster")    # clustering algorithms
 library("factoextra") # clustering algorithms & visualization
 library(tidyverse)
 library(caret)
+library(ggplot2)
 
 dt <- fromJSON("dataset/InfoRecortada.json")
 df=dt %>% select(oscilacionTermica, temMed, rachMax, precMaxMen)
+
 df <- as.data.frame(scale(df))
-##data_new2$x1 <- as.numeric(as.factor(data_new2$x1))##
-# df$temMin = as.numeric(as.factor(df$temMin))
-# df$temMax = as.numeric(as.factor(df$temMax))
-# df$temMedBaja = as.numeric(as.factor(df$temMedBaja))
-# df$temMedAlta = as.numeric(as.factor(df$temMedAlta))
-
-#Kendall correlation distance
 df <- na.omit(df)
-df <- scale(df) #Error in colMeans(x, na.rm = TRUE) : 'x' must be numeric
-distance <- get_dist(df)
-# fviz_dist(distance, gradient = list(low = "#00AFBB", mid = "white", high = "#FC4E07"))
 
-
-# k-means clustering
-# clean the data with no String varibles
-#spain have 6 diferents 
+# first analysis for clustering
 x = c()
 y = c()
-for(i in 1:20) {
-  k2 <- kmeans(df, centers = i, nstart = 25)
+for(i in 1:11) {
+  k2 <- kmeans(df, centers = i, nstart= 1)
   x = append(x, i)
   y = append(y, k2$tot.withinss)
+  silhouette(x = k2$cluster, dist = )
 }
-plot(x, y, type="l", col="red")
+p = plot(x, y, type="b", pch=16, col="red", 
+         main ="Sum of withinss for each number of clusters")
+
+
+fviz_nbclust(x=df,kmeans,method = c("wss"))
+fviz_nbclust(x=df,kmeans,method = c("silhouette"))
+
+# clean the data with no String varibles
+#spain have 6 diferents 
+k2 <- kmeans(df, centers = 6, nstart = 25)
+
+# uses PCA to plot the data
+fviz_cluster(k2, df, 
+             ellipse.type = "convex",
+             geom=c("point"), 
+             palette = "jco", 
+             ggtheme = theme_classic()) #you can change the color palette and theme to your preferences
+
+
+
+# data_plot = data.frame(x,y)
+# # col_names c("clusters", "tot_withinss")
+# a = ggplot(data_plot, aes(x,y))
+# a+geom_curve(x, y)
+#        
