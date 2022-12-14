@@ -1,11 +1,8 @@
 #!/usr/bin/python3
-
-import sys
 import requests
 import json
 import time 
 
-# data = json.load(sys.stdin)
 data = None
 with open("dataset/allStations", "r") as f:
     data = json.loads(f.read())
@@ -23,15 +20,6 @@ headers = {
 
 error_response_text = '{\n  "descripcion" : "No hay datos que satisfagan esos criterios",\n  "estado" : 404\n}'
 
-climate_file = "dataset/info" + str(year)
-
-data_stations = []
-
-temp_medias = 0
-temp_maxs = []
-temp_mins = []
-prec_tot = 0
-
 tmed_anterior = 0
 for estacion in data:
     success = False
@@ -47,40 +35,10 @@ for estacion in data:
             json_resp = json.loads(resp.text)
             dataUrl = json_resp["datos"]
 
-            # obtener de la respuesta la url que contendrá los datos meteorológicas de dicha estacion
             response = requests.request("GET", dataUrl)
-            json_resp = json.loads(response.text)
-                
-            for dia in json_resp:
-                if "tmed" not in dia:
-                    temp_medias += tmed_anterior
-                else:
-                    tmed = float(dia["tmed"].replace(",", "."))
-                    temp_medias += tmed
-
-                    tmed_anterior = tmed
-                
-                if "tmax" not in dia:
-                    if len(temp_maxs) == 0:
-                        temp_maxs.append(tmed_anterior)
-                    else:
-                        temp_maxs.append(temp_maxs[len(temp_maxs)-1])
-                else:
-                    temp_maxs.append(float(dia["tmax"].replace(",", ".")))
-
-                if "tmin" not in dia:
-                    if len(temp_mins) == 0:
-                        temp_mins.append(tmed_anterior)
-                    else:
-                        temp_mins.append(temp_mins[len(temp_mins)-1])
-                else:
-                    temp_mins.append(float(dia["tmin"].replace(",", ".")))
-
-                if "prec" not in dia or dia["prec"] == "Ip" or dia["prec"] == "Acum":
-                    prec = 0.0
-                else:
-                    prec = float(dia["prec"].replace(",", "."))
-                prec_tot += prec
+               
+            with open("dataset/estaciones/{}/{}".format(year, indicativo), "w") as f:
+                f.write(response.text)
 
             print("Obtenida información de estacion {} del año {}".format(indicativo, year))                    
         except Exception as e1:
@@ -88,27 +46,3 @@ for estacion in data:
             success = False
             time.sleep(2)
             continue
-    
-    if resp.text != error_response_text: 
-        info_estacion_año = {
-            "indicativo": indicativo,
-            "nombre": estacion["nombre"],
-            "provincia": estacion["provincia"],
-            "latitud": estacion["latitud"],
-            "longitud": estacion["longitud"],
-            "precTot": prec_tot,
-            "tmin": min(temp_mins),
-            "tmax": max(temp_maxs),
-            "tmed": (temp_medias / len(temp_mins))
-        }
-        data_stations.append(info_estacion_año)
-
-        temp_medias = 0
-        temp_maxs = []
-        temp_mins = []
-        prec_tot = 0
-
-with open(climate_file, "w") as fw:
-    fw.write(json.dumps(data_stations))
-
-    data_stations = []
