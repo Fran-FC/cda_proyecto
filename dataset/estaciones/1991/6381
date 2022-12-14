@@ -1,0 +1,3226 @@
+[ {
+  "fecha" : "1991-01-21",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "03",
+  "velmedia" : "16,7",
+  "racha" : "23,9",
+  "horaracha" : "16:00"
+}, {
+  "fecha" : "1991-01-22",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "04",
+  "velmedia" : "10,8",
+  "racha" : "18,9",
+  "horaracha" : "15:20"
+}, {
+  "fecha" : "1991-01-23",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "04",
+  "velmedia" : "11,9",
+  "racha" : "21,9",
+  "horaracha" : "04:20"
+}, {
+  "fecha" : "1991-01-24",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "03",
+  "velmedia" : "16,7",
+  "racha" : "28,9",
+  "horaracha" : "15:20"
+}, {
+  "fecha" : "1991-01-25",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "02",
+  "velmedia" : "11,1",
+  "racha" : "20,0",
+  "horaracha" : "09:20"
+}, {
+  "fecha" : "1991-01-26",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "24",
+  "velmedia" : "12,8",
+  "racha" : "20,0",
+  "horaracha" : "15:20"
+}, {
+  "fecha" : "1991-01-27",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "24",
+  "velmedia" : "3,6",
+  "racha" : "13,9",
+  "horaracha" : "00:20"
+}, {
+  "fecha" : "1991-01-28",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "16",
+  "velmedia" : "0,8",
+  "racha" : "6,1",
+  "horaracha" : "13:50"
+}, {
+  "fecha" : "1991-01-29",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "24",
+  "velmedia" : "6,4",
+  "racha" : "25,0",
+  "horaracha" : "20:00"
+}, {
+  "fecha" : "1991-01-30",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-01-31",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-02-01",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-02-02",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "23",
+  "velmedia" : "8,3",
+  "racha" : "23,9",
+  "horaracha" : "05:20"
+}, {
+  "fecha" : "1991-02-03",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "26",
+  "velmedia" : "5,3",
+  "racha" : "13,9",
+  "horaracha" : "18:40"
+}, {
+  "fecha" : "1991-02-04",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-02-05",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-02-06",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-02-07",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-02-08",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-02-09",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-02-10",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-03-01",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "22",
+  "velmedia" : "18,3",
+  "racha" : "31,1",
+  "horaracha" : "10:50"
+}, {
+  "fecha" : "1991-03-02",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "24",
+  "velmedia" : "9,4",
+  "racha" : "18,9",
+  "horaracha" : "14:00"
+}, {
+  "fecha" : "1991-03-03",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "05",
+  "velmedia" : "7,2",
+  "racha" : "18,1",
+  "horaracha" : "19:30"
+}, {
+  "fecha" : "1991-03-04",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "05",
+  "velmedia" : "9,2",
+  "racha" : "20,0",
+  "horaracha" : "08:00"
+}, {
+  "fecha" : "1991-03-05",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "03",
+  "velmedia" : "0,6",
+  "racha" : "10,0",
+  "horaracha" : "00:20"
+}, {
+  "fecha" : "1991-03-06",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "12",
+  "velmedia" : "4,7",
+  "racha" : "13,1",
+  "horaracha" : "22:10"
+}, {
+  "fecha" : "1991-03-07",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "09",
+  "velmedia" : "10,3",
+  "racha" : "30,0",
+  "horaracha" : "06:30"
+}, {
+  "fecha" : "1991-03-08",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "23",
+  "velmedia" : "11,7",
+  "racha" : "23,9",
+  "horaracha" : "22:00"
+}, {
+  "fecha" : "1991-03-09",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "23",
+  "velmedia" : "11,7",
+  "racha" : "21,1",
+  "horaracha" : "03:00"
+}, {
+  "fecha" : "1991-03-10",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "22",
+  "velmedia" : "10,0",
+  "racha" : "16,9",
+  "horaracha" : "08:30"
+}, {
+  "fecha" : "1991-03-11",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "22",
+  "velmedia" : "2,5",
+  "racha" : "11,9",
+  "horaracha" : "01:00"
+}, {
+  "fecha" : "1991-03-12",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "22",
+  "velmedia" : "5,6",
+  "racha" : "13,9",
+  "horaracha" : "19:20"
+}, {
+  "fecha" : "1991-03-13",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "23",
+  "velmedia" : "7,2",
+  "racha" : "15,0",
+  "horaracha" : "03:30"
+}, {
+  "fecha" : "1991-03-14",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "01",
+  "velmedia" : "2,8",
+  "racha" : "13,9",
+  "horaracha" : "08:30"
+}, {
+  "fecha" : "1991-03-15",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "23",
+  "velmedia" : "3,1",
+  "racha" : "16,1",
+  "horaracha" : "20:50"
+}, {
+  "fecha" : "1991-03-16",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "23",
+  "velmedia" : "11,9",
+  "racha" : "21,9",
+  "horaracha" : "21:40"
+}, {
+  "fecha" : "1991-03-17",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "23",
+  "velmedia" : "13,3",
+  "racha" : "21,9",
+  "horaracha" : "19:20"
+}, {
+  "fecha" : "1991-03-18",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "09",
+  "velmedia" : "10,3",
+  "racha" : "30,0",
+  "horaracha" : "06:30"
+}, {
+  "fecha" : "1991-03-19",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "23",
+  "velmedia" : "11,7",
+  "racha" : "23,9",
+  "horaracha" : "22:00"
+}, {
+  "fecha" : "1991-03-20",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "23",
+  "velmedia" : "11,7",
+  "racha" : "21,1",
+  "horaracha" : "03:00"
+}, {
+  "fecha" : "1991-03-21",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "22",
+  "velmedia" : "10,0",
+  "racha" : "16,9",
+  "horaracha" : "08:30"
+}, {
+  "fecha" : "1991-03-22",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "22",
+  "velmedia" : "2,5",
+  "racha" : "11,9",
+  "horaracha" : "01:00"
+}, {
+  "fecha" : "1991-03-23",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "22",
+  "velmedia" : "5,6",
+  "racha" : "13,9",
+  "horaracha" : "19:20"
+}, {
+  "fecha" : "1991-03-24",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "23",
+  "velmedia" : "7,2",
+  "racha" : "15,0",
+  "horaracha" : "03:30"
+}, {
+  "fecha" : "1991-03-25",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "01",
+  "velmedia" : "2,8",
+  "racha" : "13,9",
+  "horaracha" : "08:30"
+}, {
+  "fecha" : "1991-03-26",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "23",
+  "velmedia" : "3,1",
+  "racha" : "16,1",
+  "horaracha" : "20:50"
+}, {
+  "fecha" : "1991-03-27",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "23",
+  "velmedia" : "11,9",
+  "racha" : "21,9",
+  "horaracha" : "21:40"
+}, {
+  "fecha" : "1991-03-28",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "23",
+  "velmedia" : "13,3",
+  "racha" : "21,9",
+  "horaracha" : "19:20"
+}, {
+  "fecha" : "1991-03-29",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-03-30",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-03-31",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-04-01",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-04-02",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-04-03",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-04-04",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "25",
+  "velmedia" : "16,4",
+  "racha" : "31,9",
+  "horaracha" : "20:40"
+}, {
+  "fecha" : "1991-04-05",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "25",
+  "velmedia" : "18,9",
+  "racha" : "31,1",
+  "horaracha" : "02:30"
+}, {
+  "fecha" : "1991-04-06",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-04-07",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "06",
+  "velmedia" : "6,9",
+  "racha" : "13,9",
+  "horaracha" : "13:20"
+}, {
+  "fecha" : "1991-04-08",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "07",
+  "velmedia" : "11,4",
+  "racha" : "21,1",
+  "horaracha" : "15:00"
+}, {
+  "fecha" : "1991-04-09",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "06",
+  "velmedia" : "9,4",
+  "racha" : "16,1",
+  "horaracha" : "07:40"
+}, {
+  "fecha" : "1991-04-10",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "07",
+  "velmedia" : "7,2",
+  "racha" : "13,9",
+  "horaracha" : "12:00"
+}, {
+  "fecha" : "1991-04-11",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "07",
+  "velmedia" : "9,2",
+  "racha" : "15,0",
+  "horaracha" : "21:00"
+}, {
+  "fecha" : "1991-04-12",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "06",
+  "velmedia" : "8,3",
+  "racha" : "16,1",
+  "horaracha" : "07:50"
+}, {
+  "fecha" : "1991-04-13",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "25",
+  "velmedia" : "7,2",
+  "racha" : "16,1",
+  "horaracha" : "14:00"
+}, {
+  "fecha" : "1991-04-14",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "07",
+  "velmedia" : "6,7",
+  "racha" : "18,1",
+  "horaracha" : "16:00"
+}, {
+  "fecha" : "1991-04-15",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "27",
+  "velmedia" : "5,0",
+  "racha" : "11,1",
+  "horaracha" : "03:40"
+}, {
+  "fecha" : "1991-04-16",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "27",
+  "velmedia" : "4,7",
+  "racha" : "11,9",
+  "horaracha" : "18:40"
+}, {
+  "fecha" : "1991-04-17",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-04-18",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "27",
+  "velmedia" : "13,1",
+  "racha" : "20,0",
+  "horaracha" : "08:00"
+}, {
+  "fecha" : "1991-04-19",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "velmedia" : "10,8",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-04-20",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "07",
+  "velmedia" : "11,9",
+  "racha" : "18,9",
+  "horaracha" : "15:00"
+}, {
+  "fecha" : "1991-04-21",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "06",
+  "velmedia" : "13,1",
+  "racha" : "21,9",
+  "horaracha" : "18:30"
+}, {
+  "fecha" : "1991-04-22",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "07",
+  "velmedia" : "13,6",
+  "racha" : "21,1",
+  "horaracha" : "11:10"
+}, {
+  "fecha" : "1991-04-23",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "06",
+  "velmedia" : "7,5",
+  "racha" : "13,9",
+  "horaracha" : "12:00"
+}, {
+  "fecha" : "1991-04-24",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "24",
+  "velmedia" : "6,1",
+  "racha" : "16,9",
+  "horaracha" : "23:40"
+}, {
+  "fecha" : "1991-04-25",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "24",
+  "velmedia" : "19,7",
+  "racha" : "30,0",
+  "horaracha" : "19:40"
+}, {
+  "fecha" : "1991-04-26",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "25",
+  "velmedia" : "16,4",
+  "racha" : "28,9",
+  "horaracha" : "01:20"
+}, {
+  "fecha" : "1991-04-27",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "24",
+  "velmedia" : "5,3",
+  "racha" : "11,1",
+  "horaracha" : "06:00"
+}, {
+  "fecha" : "1991-04-28",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "26",
+  "velmedia" : "9,2",
+  "racha" : "16,1",
+  "horaracha" : "09:00"
+}, {
+  "fecha" : "1991-04-29",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "23",
+  "velmedia" : "3,9",
+  "racha" : "15,0",
+  "horaracha" : "01:10"
+}, {
+  "fecha" : "1991-04-30",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "07",
+  "velmedia" : "3,9",
+  "racha" : "8,9",
+  "horaracha" : "04:40"
+}, {
+  "fecha" : "1991-05-01",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "24",
+  "velmedia" : "15,0",
+  "racha" : "28,9",
+  "horaracha" : "19:00"
+}, {
+  "fecha" : "1991-05-02",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "24",
+  "velmedia" : "14,7",
+  "racha" : "23,9",
+  "horaracha" : "02:00"
+}, {
+  "fecha" : "1991-05-03",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "33",
+  "velmedia" : "7,8",
+  "racha" : "13,1",
+  "horaracha" : "11:10"
+}, {
+  "fecha" : "1991-05-04",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "24",
+  "velmedia" : "5,3",
+  "racha" : "13,9",
+  "horaracha" : "01:30"
+}, {
+  "fecha" : "1991-05-05",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "26",
+  "velmedia" : "10,3",
+  "racha" : "23,1",
+  "horaracha" : "22:20"
+}, {
+  "fecha" : "1991-05-06",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "26",
+  "velmedia" : "8,6",
+  "racha" : "23,9",
+  "horaracha" : "01:50"
+}, {
+  "fecha" : "1991-05-07",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "06",
+  "velmedia" : "4,7",
+  "racha" : "8,9",
+  "horaracha" : "05:40"
+}, {
+  "fecha" : "1991-05-08",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "25",
+  "velmedia" : "18,3",
+  "racha" : "28,9",
+  "horaracha" : "16:40"
+}, {
+  "fecha" : "1991-05-09",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "27",
+  "velmedia" : "13,3",
+  "racha" : "21,1",
+  "horaracha" : "19:00"
+}, {
+  "fecha" : "1991-05-10",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "26",
+  "velmedia" : "12,8",
+  "racha" : "21,9",
+  "horaracha" : "05:20"
+}, {
+  "fecha" : "1991-05-11",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "08",
+  "velmedia" : "6,9",
+  "racha" : "18,9",
+  "horaracha" : "21:30"
+}, {
+  "fecha" : "1991-05-12",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "11",
+  "velmedia" : "5,3",
+  "racha" : "15,0",
+  "horaracha" : "00:20"
+}, {
+  "fecha" : "1991-05-13",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "18",
+  "velmedia" : "3,6",
+  "racha" : "8,9",
+  "horaracha" : "07:30"
+}, {
+  "fecha" : "1991-05-14",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "07",
+  "velmedia" : "3,3",
+  "racha" : "8,9",
+  "horaracha" : "06:40"
+}, {
+  "fecha" : "1991-05-15",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "21",
+  "velmedia" : "3,1",
+  "racha" : "6,9",
+  "horaracha" : "21:10"
+}, {
+  "fecha" : "1991-05-16",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "24",
+  "velmedia" : "5,3",
+  "racha" : "11,1",
+  "horaracha" : "11:50"
+}, {
+  "fecha" : "1991-05-17",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "12",
+  "velmedia" : "2,8",
+  "racha" : "8,9",
+  "horaracha" : "09:10"
+}, {
+  "fecha" : "1991-05-18",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "08",
+  "velmedia" : "3,3",
+  "racha" : "11,9",
+  "horaracha" : "22:00"
+}, {
+  "fecha" : "1991-05-19",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "07",
+  "velmedia" : "5,6",
+  "racha" : "11,1",
+  "horaracha" : "19:40"
+}, {
+  "fecha" : "1991-05-20",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "velmedia" : "13,3",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-05-21",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "05",
+  "velmedia" : "13,1",
+  "racha" : "21,9",
+  "horaracha" : "05:20"
+}, {
+  "fecha" : "1991-05-22",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "06",
+  "velmedia" : "12,8",
+  "racha" : "18,9",
+  "horaracha" : "00:20"
+}, {
+  "fecha" : "1991-05-23",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "06",
+  "velmedia" : "8,6",
+  "racha" : "16,1",
+  "horaracha" : "01:40"
+}, {
+  "fecha" : "1991-05-24",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "07",
+  "velmedia" : "4,7",
+  "racha" : "11,9",
+  "horaracha" : "22:20"
+}, {
+  "fecha" : "1991-05-25",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "05",
+  "velmedia" : "14,4",
+  "racha" : "21,1",
+  "horaracha" : "14:30"
+}, {
+  "fecha" : "1991-05-26",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "velmedia" : "16,1",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-05-27",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "velmedia" : "11,7",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-05-28",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "velmedia" : "10,8",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-05-29",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "velmedia" : "4,4",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-05-30",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "22",
+  "velmedia" : "9,2",
+  "racha" : "18,9",
+  "horaracha" : "16:10"
+}, {
+  "fecha" : "1991-05-31",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "25",
+  "velmedia" : "8,6",
+  "racha" : "15,0",
+  "horaracha" : "00:50"
+}, {
+  "fecha" : "1991-06-01",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "25",
+  "velmedia" : "3,3",
+  "racha" : "8,1",
+  "horaracha" : "08:10"
+}, {
+  "fecha" : "1991-06-02",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "19",
+  "velmedia" : "3,6",
+  "racha" : "8,9",
+  "horaracha" : "01:30"
+}, {
+  "fecha" : "1991-06-03",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "25",
+  "velmedia" : "5,3",
+  "racha" : "10,0",
+  "horaracha" : "15:40"
+}, {
+  "fecha" : "1991-06-04",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "23",
+  "velmedia" : "8,3",
+  "racha" : "11,9",
+  "horaracha" : "08:10"
+}, {
+  "fecha" : "1991-06-05",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "22",
+  "velmedia" : "10,0",
+  "racha" : "16,1",
+  "horaracha" : "21:00"
+}, {
+  "fecha" : "1991-06-06",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "24",
+  "velmedia" : "12,2",
+  "racha" : "16,1",
+  "horaracha" : "19:00"
+}, {
+  "fecha" : "1991-06-07",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "25",
+  "velmedia" : "18,1",
+  "racha" : "25,0",
+  "horaracha" : "14:00"
+}, {
+  "fecha" : "1991-06-08",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "24",
+  "velmedia" : "9,7",
+  "racha" : "26,1",
+  "horaracha" : "05:40"
+}, {
+  "fecha" : "1991-06-09",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "07",
+  "velmedia" : "3,3",
+  "racha" : "8,9",
+  "horaracha" : "12:20"
+}, {
+  "fecha" : "1991-06-10",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "25",
+  "velmedia" : "3,1",
+  "racha" : "8,9",
+  "horaracha" : "09:40"
+}, {
+  "fecha" : "1991-06-11",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "06",
+  "velmedia" : "10,0",
+  "racha" : "16,9",
+  "horaracha" : "14:00"
+}, {
+  "fecha" : "1991-06-12",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "07",
+  "velmedia" : "7,2",
+  "racha" : "15,0",
+  "horaracha" : "13:20"
+}, {
+  "fecha" : "1991-06-13",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "09",
+  "velmedia" : "5,0",
+  "racha" : "11,9",
+  "horaracha" : "18:40"
+}, {
+  "fecha" : "1991-06-14",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "07",
+  "velmedia" : "3,1",
+  "racha" : "8,1",
+  "horaracha" : "19:00"
+}, {
+  "fecha" : "1991-06-15",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "06",
+  "velmedia" : "3,9",
+  "racha" : "8,9",
+  "horaracha" : "10:30"
+}, {
+  "fecha" : "1991-06-16",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "23",
+  "velmedia" : "6,9",
+  "racha" : "18,1",
+  "horaracha" : "22:00"
+}, {
+  "fecha" : "1991-06-17",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "24",
+  "velmedia" : "8,1",
+  "racha" : "18,1",
+  "horaracha" : "08:40"
+}, {
+  "fecha" : "1991-06-18",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "07",
+  "velmedia" : "5,3",
+  "racha" : "8,9",
+  "horaracha" : "01:40"
+}, {
+  "fecha" : "1991-06-19",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "06",
+  "velmedia" : "5,0",
+  "racha" : "10,0",
+  "horaracha" : "09:40"
+}, {
+  "fecha" : "1991-06-20",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "10",
+  "velmedia" : "1,9",
+  "racha" : "5,0",
+  "horaracha" : "01:00"
+}, {
+  "fecha" : "1991-06-21",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "05",
+  "velmedia" : "4,7",
+  "racha" : "11,1",
+  "horaracha" : "19:00"
+}, {
+  "fecha" : "1991-06-22",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "06",
+  "velmedia" : "3,6",
+  "racha" : "8,1",
+  "horaracha" : "08:00"
+}, {
+  "fecha" : "1991-06-23",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "06",
+  "velmedia" : "5,3",
+  "racha" : "10,0",
+  "horaracha" : "03:20"
+}, {
+  "fecha" : "1991-06-24",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "07",
+  "velmedia" : "4,7",
+  "racha" : "8,1",
+  "horaracha" : "19:00"
+}, {
+  "fecha" : "1991-06-25",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "08",
+  "velmedia" : "5,0",
+  "racha" : "10,0",
+  "horaracha" : "14:40"
+}, {
+  "fecha" : "1991-06-26",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "32",
+  "velmedia" : "2,5",
+  "racha" : "8,1",
+  "horaracha" : "15:40"
+}, {
+  "fecha" : "1991-06-27",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "10",
+  "velmedia" : "3,1",
+  "racha" : "8,1",
+  "horaracha" : "20:20"
+}, {
+  "fecha" : "1991-06-28",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-06-29",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "08",
+  "velmedia" : "11,7",
+  "racha" : "18,9",
+  "horaracha" : "09:20"
+}, {
+  "fecha" : "1991-06-30",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "08",
+  "velmedia" : "13,6",
+  "racha" : "20,0",
+  "horaracha" : "11:00"
+}, {
+  "fecha" : "1991-07-01",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "08",
+  "velmedia" : "8,1",
+  "racha" : "15,0",
+  "horaracha" : "03:20"
+}, {
+  "fecha" : "1991-07-02",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "07",
+  "velmedia" : "3,3",
+  "racha" : "10,0",
+  "horaracha" : "03:30"
+}, {
+  "fecha" : "1991-07-03",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "07",
+  "velmedia" : "9,7",
+  "racha" : "16,1",
+  "horaracha" : "13:50"
+}, {
+  "fecha" : "1991-07-04",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-07-05",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "24",
+  "velmedia" : "15,0",
+  "racha" : "21,1",
+  "horaracha" : "21:20"
+}, {
+  "fecha" : "1991-07-06",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "24",
+  "velmedia" : "13,1",
+  "racha" : "21,9",
+  "horaracha" : "02:40"
+}, {
+  "fecha" : "1991-07-07",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "23",
+  "velmedia" : "4,7",
+  "racha" : "16,9",
+  "horaracha" : "02:50"
+}, {
+  "fecha" : "1991-07-08",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "09",
+  "velmedia" : "3,6",
+  "racha" : "8,9",
+  "horaracha" : "10:00"
+}, {
+  "fecha" : "1991-07-09",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "08",
+  "velmedia" : "6,7",
+  "racha" : "11,9",
+  "horaracha" : "14:30"
+}, {
+  "fecha" : "1991-07-10",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "09",
+  "velmedia" : "5,0",
+  "racha" : "10,0",
+  "horaracha" : "13:30"
+}, {
+  "fecha" : "1991-07-11",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "07",
+  "velmedia" : "3,9",
+  "racha" : "8,9",
+  "horaracha" : "15:10"
+}, {
+  "fecha" : "1991-07-12",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "11",
+  "velmedia" : "3,9",
+  "racha" : "11,9",
+  "horaracha" : "04:40"
+}, {
+  "fecha" : "1991-07-13",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "18",
+  "velmedia" : "1,9",
+  "racha" : "8,1",
+  "horaracha" : "21:00"
+}, {
+  "fecha" : "1991-07-14",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "26",
+  "velmedia" : "3,6",
+  "racha" : "10,0",
+  "horaracha" : "10:50"
+}, {
+  "fecha" : "1991-07-15",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "07",
+  "velmedia" : "6,1",
+  "racha" : "13,9",
+  "horaracha" : "02:00"
+}, {
+  "fecha" : "1991-07-16",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "04",
+  "velmedia" : "2,8",
+  "racha" : "6,1",
+  "horaracha" : "00:40"
+}, {
+  "fecha" : "1991-07-17",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "19",
+  "velmedia" : "2,5",
+  "racha" : "11,1",
+  "horaracha" : "19:00"
+}, {
+  "fecha" : "1991-07-18",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "06",
+  "velmedia" : "4,2",
+  "racha" : "10,0",
+  "horaracha" : "15:00"
+}, {
+  "fecha" : "1991-07-19",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,3",
+  "dir" : "02",
+  "velmedia" : "1,9",
+  "racha" : "10,0",
+  "horaracha" : "00:30"
+}, {
+  "fecha" : "1991-07-20",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,1",
+  "dir" : "04",
+  "velmedia" : "4,2",
+  "racha" : "13,9",
+  "horaracha" : "07:30"
+}, {
+  "fecha" : "1991-07-21",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "27",
+  "velmedia" : "3,6",
+  "racha" : "11,1",
+  "horaracha" : "01:10"
+}, {
+  "fecha" : "1991-07-22",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "26",
+  "velmedia" : "6,7",
+  "racha" : "13,1",
+  "horaracha" : "14:00"
+}, {
+  "fecha" : "1991-07-23",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "26",
+  "velmedia" : "5,3",
+  "racha" : "16,1",
+  "horaracha" : "04:00"
+}, {
+  "fecha" : "1991-07-24",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "30",
+  "velmedia" : "3,1",
+  "racha" : "6,9",
+  "horaracha" : "16:20"
+}, {
+  "fecha" : "1991-07-25",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "25",
+  "velmedia" : "3,9",
+  "racha" : "8,1",
+  "horaracha" : "12:20"
+}, {
+  "fecha" : "1991-07-26",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "08",
+  "velmedia" : "5,6",
+  "racha" : "11,1",
+  "horaracha" : "23:20"
+}, {
+  "fecha" : "1991-07-27",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "08",
+  "velmedia" : "5,6",
+  "racha" : "16,9",
+  "horaracha" : "08:00"
+}, {
+  "fecha" : "1991-07-28",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "29",
+  "velmedia" : "3,6",
+  "racha" : "21,9",
+  "horaracha" : "21:40"
+}, {
+  "fecha" : "1991-07-29",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "29",
+  "velmedia" : "9,7",
+  "racha" : "25,0",
+  "horaracha" : "03:40"
+}, {
+  "fecha" : "1991-07-30",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "26",
+  "velmedia" : "15,0",
+  "racha" : "26,1",
+  "horaracha" : "15:40"
+}, {
+  "fecha" : "1991-07-31",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "26",
+  "velmedia" : "7,2",
+  "racha" : "20,0",
+  "horaracha" : "04:40"
+}, {
+  "fecha" : "1991-08-01",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "15",
+  "velmedia" : "1,7",
+  "racha" : "5,0",
+  "horaracha" : "03:20"
+}, {
+  "fecha" : "1991-08-02",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "09",
+  "velmedia" : "3,3",
+  "racha" : "8,1",
+  "horaracha" : "17:00"
+}, {
+  "fecha" : "1991-08-03",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "07",
+  "velmedia" : "9,7",
+  "racha" : "16,1",
+  "horaracha" : "13:50"
+}, {
+  "fecha" : "1991-08-04",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "08",
+  "velmedia" : "4,7",
+  "racha" : "11,1",
+  "horaracha" : "19:00"
+}, {
+  "fecha" : "1991-08-05",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "24",
+  "velmedia" : "15,0",
+  "racha" : "21,1",
+  "horaracha" : "21:20"
+}, {
+  "fecha" : "1991-08-06",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-08-08",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "24",
+  "velmedia" : "9,7",
+  "racha" : "15,0",
+  "horaracha" : "14:00"
+}, {
+  "fecha" : "1991-08-09",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "08",
+  "velmedia" : "6,7",
+  "racha" : "11,9",
+  "horaracha" : "14:30"
+}, {
+  "fecha" : "1991-08-10",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "08",
+  "velmedia" : "9,7",
+  "racha" : "18,1",
+  "horaracha" : "09:20"
+}, {
+  "fecha" : "1991-08-11",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "08",
+  "velmedia" : "8,6",
+  "racha" : "15,0",
+  "horaracha" : "00:40"
+}, {
+  "fecha" : "1991-08-12",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "09",
+  "velmedia" : "5,0",
+  "racha" : "8,9",
+  "horaracha" : "13:30"
+}, {
+  "fecha" : "1991-08-13",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "08",
+  "velmedia" : "6,4",
+  "racha" : "11,1",
+  "horaracha" : "17:00"
+}, {
+  "fecha" : "1991-08-14",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "34",
+  "velmedia" : "5,8",
+  "racha" : "16,9",
+  "horaracha" : "22:20"
+}, {
+  "fecha" : "1991-08-15",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "13",
+  "velmedia" : "5,0",
+  "racha" : "18,1",
+  "horaracha" : "01:10"
+}, {
+  "fecha" : "1991-08-16",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "31",
+  "velmedia" : "3,1",
+  "racha" : "11,9",
+  "horaracha" : "05:20"
+}, {
+  "fecha" : "1991-08-17",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "08",
+  "velmedia" : "8,3",
+  "racha" : "21,9",
+  "horaracha" : "14:20"
+}, {
+  "fecha" : "1991-08-18",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "06",
+  "velmedia" : "5,3",
+  "racha" : "15,0",
+  "horaracha" : "01:00"
+}, {
+  "fecha" : "1991-08-19",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "03",
+  "velmedia" : "3,9",
+  "racha" : "8,9",
+  "horaracha" : "00:40"
+}, {
+  "fecha" : "1991-08-20",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "11",
+  "velmedia" : "2,5",
+  "racha" : "5,0",
+  "horaracha" : "03:50"
+}, {
+  "fecha" : "1991-08-21",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "21",
+  "velmedia" : "3,9",
+  "racha" : "11,1",
+  "horaracha" : "08:00"
+}, {
+  "fecha" : "1991-08-22",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "24",
+  "velmedia" : "10,3",
+  "racha" : "15,0",
+  "horaracha" : "15:10"
+}, {
+  "fecha" : "1991-08-23",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "24",
+  "velmedia" : "5,3",
+  "racha" : "11,1",
+  "horaracha" : "02:00"
+}, {
+  "fecha" : "1991-08-24",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "06",
+  "velmedia" : "3,1",
+  "racha" : "13,9",
+  "horaracha" : "23:20"
+}, {
+  "fecha" : "1991-08-25",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "06",
+  "velmedia" : "10,6",
+  "racha" : "25,0",
+  "horaracha" : "07:05"
+}, {
+  "fecha" : "1991-08-26",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "22",
+  "velmedia" : "3,3",
+  "racha" : "11,1",
+  "horaracha" : "20:20"
+}, {
+  "fecha" : "1991-08-27",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "26",
+  "velmedia" : "7,5",
+  "racha" : "16,9",
+  "horaracha" : "10:50"
+}, {
+  "fecha" : "1991-08-28",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "25",
+  "velmedia" : "5,3",
+  "racha" : "11,9",
+  "horaracha" : "02:00"
+}, {
+  "fecha" : "1991-08-29",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "26",
+  "velmedia" : "5,3",
+  "racha" : "15,0",
+  "horaracha" : "22:40"
+}, {
+  "fecha" : "1991-08-30",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "23",
+  "velmedia" : "8,3",
+  "racha" : "16,1",
+  "horaracha" : "15:40"
+}, {
+  "fecha" : "1991-08-31",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "26",
+  "velmedia" : "8,1",
+  "racha" : "13,9",
+  "horaracha" : "08:00"
+}, {
+  "fecha" : "1991-09-01",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "24",
+  "velmedia" : "2,2",
+  "racha" : "10,0",
+  "horaracha" : "02:10"
+}, {
+  "fecha" : "1991-09-02",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "09",
+  "velmedia" : "3,3",
+  "racha" : "10,0",
+  "horaracha" : "01:00"
+}, {
+  "fecha" : "1991-09-03",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "08",
+  "velmedia" : "6,7",
+  "racha" : "16,1",
+  "horaracha" : "16:30"
+}, {
+  "fecha" : "1991-09-04",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "07",
+  "velmedia" : "6,4",
+  "racha" : "18,9",
+  "horaracha" : "03:40"
+}, {
+  "fecha" : "1991-09-05",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "06",
+  "velmedia" : "5,0",
+  "racha" : "15,0",
+  "horaracha" : "04:20"
+}, {
+  "fecha" : "1991-09-06",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "05",
+  "velmedia" : "2,8",
+  "racha" : "10,0",
+  "horaracha" : "04:30"
+}, {
+  "fecha" : "1991-09-07",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "21",
+  "velmedia" : "2,5",
+  "racha" : "8,9",
+  "horaracha" : "20:40"
+}, {
+  "fecha" : "1991-09-08",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "25",
+  "velmedia" : "4,7",
+  "racha" : "10,0",
+  "horaracha" : "12:30"
+}, {
+  "fecha" : "1991-09-09",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "26",
+  "velmedia" : "1,9",
+  "racha" : "8,1",
+  "horaracha" : "06:00"
+}, {
+  "fecha" : "1991-09-10",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-09-11",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-09-12",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-09-13",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "25",
+  "velmedia" : "3,6",
+  "racha" : "15,0",
+  "horaracha" : "00:50"
+}, {
+  "fecha" : "1991-09-14",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "06",
+  "velmedia" : "6,7",
+  "racha" : "13,9",
+  "horaracha" : "10:00"
+}, {
+  "fecha" : "1991-09-15",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-09-16",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-09-17",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-09-18",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-09-19",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-09-20",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,7",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-09-21",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0"
+}, {
+  "fecha" : "1991-09-22",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0"
+}, {
+  "fecha" : "1991-09-23",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "25",
+  "velmedia" : "3,6",
+  "racha" : "15,0",
+  "horaracha" : "00:50"
+}, {
+  "fecha" : "1991-09-24",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "06",
+  "velmedia" : "6,7",
+  "racha" : "13,9",
+  "horaracha" : "10:00"
+}, {
+  "fecha" : "1991-09-25",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "7,0"
+}, {
+  "fecha" : "1991-09-26",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0"
+}, {
+  "fecha" : "1991-09-27",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0"
+}, {
+  "fecha" : "1991-09-28",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0"
+}, {
+  "fecha" : "1991-09-29",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,1"
+}, {
+  "fecha" : "1991-09-30",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0"
+}, {
+  "fecha" : "1991-10-01",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "26",
+  "velmedia" : "8,1",
+  "racha" : "16,1",
+  "horaracha" : "02:00"
+}, {
+  "fecha" : "1991-10-02",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "06",
+  "velmedia" : "5,3",
+  "racha" : "13,9",
+  "horaracha" : "22:00"
+}, {
+  "fecha" : "1991-10-03",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "03",
+  "velmedia" : "10,8",
+  "racha" : "18,9",
+  "horaracha" : "11:40"
+}, {
+  "fecha" : "1991-10-04",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,1",
+  "dir" : "03",
+  "velmedia" : "9,7",
+  "racha" : "20,0",
+  "horaracha" : "04:00"
+}, {
+  "fecha" : "1991-10-05",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "05",
+  "velmedia" : "2,8",
+  "racha" : "6,9",
+  "horaracha" : "15:30"
+}, {
+  "fecha" : "1991-10-06",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "06",
+  "velmedia" : "7,8",
+  "racha" : "16,1",
+  "horaracha" : "18:40"
+}, {
+  "fecha" : "1991-10-07",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "04",
+  "velmedia" : "4,7",
+  "racha" : "13,9",
+  "horaracha" : "05:20"
+}, {
+  "fecha" : "1991-10-08",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "21",
+  "velmedia" : "10,8",
+  "racha" : "21,9",
+  "horaracha" : "17:10"
+}, {
+  "fecha" : "1991-10-09",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "20",
+  "velmedia" : "4,2",
+  "racha" : "18,1",
+  "horaracha" : "00:40"
+}, {
+  "fecha" : "1991-10-10",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "21",
+  "velmedia" : "9,4",
+  "racha" : "28,1",
+  "horaracha" : "17:40"
+}, {
+  "fecha" : "1991-10-11",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "9,8",
+  "dir" : "23",
+  "velmedia" : "6,9",
+  "racha" : "26,9",
+  "horaracha" : "10:40"
+}, {
+  "fecha" : "1991-10-12",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "33",
+  "velmedia" : "5,6",
+  "racha" : "20,0",
+  "horaracha" : "05:20"
+}, {
+  "fecha" : "1991-10-13",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "20",
+  "velmedia" : "11,1",
+  "racha" : "21,1",
+  "horaracha" : "06:00"
+}, {
+  "fecha" : "1991-10-14",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "22",
+  "velmedia" : "9,7",
+  "racha" : "18,9",
+  "horaracha" : "22:00"
+}, {
+  "fecha" : "1991-10-15",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "20",
+  "velmedia" : "10,0",
+  "racha" : "20,0",
+  "horaracha" : "02:40"
+}, {
+  "fecha" : "1991-10-16",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "6,9",
+  "dir" : "08",
+  "velmedia" : "1,9",
+  "racha" : "13,1",
+  "horaracha" : "07:40"
+}, {
+  "fecha" : "1991-10-17",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "2,5",
+  "dir" : "10",
+  "velmedia" : "5,6",
+  "racha" : "13,1",
+  "horaracha" : "01:10"
+}, {
+  "fecha" : "1991-10-18",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "36",
+  "velmedia" : "6,1",
+  "racha" : "16,1",
+  "horaracha" : "07:30"
+}, {
+  "fecha" : "1991-10-19",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "36",
+  "velmedia" : "14,7",
+  "racha" : "23,9",
+  "horaracha" : "21:20"
+}, {
+  "fecha" : "1991-10-20",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "20",
+  "velmedia" : "9,2",
+  "racha" : "20,0",
+  "horaracha" : "00:30"
+}, {
+  "fecha" : "1991-10-21",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "1,0",
+  "dir" : "36",
+  "velmedia" : "3,9",
+  "racha" : "10,0",
+  "horaracha" : "10:50"
+}, {
+  "fecha" : "1991-10-22",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "02",
+  "velmedia" : "11,4",
+  "racha" : "18,9",
+  "horaracha" : "23:20"
+}, {
+  "fecha" : "1991-10-23",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "03",
+  "velmedia" : "12,8",
+  "racha" : "20,0",
+  "horaracha" : "08:20"
+}, {
+  "fecha" : "1991-10-24",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "1,3",
+  "dir" : "05",
+  "velmedia" : "11,7",
+  "racha" : "21,1",
+  "horaracha" : "20:40"
+}, {
+  "fecha" : "1991-10-25",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "2,9",
+  "dir" : "04",
+  "velmedia" : "9,4",
+  "racha" : "20,0",
+  "horaracha" : "03:20"
+}, {
+  "fecha" : "1991-10-26",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "03",
+  "velmedia" : "6,7",
+  "racha" : "18,1",
+  "horaracha" : "19:20"
+}, {
+  "fecha" : "1991-10-27",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "05",
+  "velmedia" : "11,1",
+  "racha" : "13,9",
+  "horaracha" : "14:00"
+}, {
+  "fecha" : "1991-10-28",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "20",
+  "velmedia" : "5,3",
+  "racha" : "18,9",
+  "horaracha" : "03:20"
+}, {
+  "fecha" : "1991-10-29",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "06",
+  "velmedia" : "1,1",
+  "racha" : "3,9",
+  "horaracha" : "14:20"
+}, {
+  "fecha" : "1991-10-30",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "11",
+  "velmedia" : "1,7",
+  "racha" : "3,9",
+  "horaracha" : "11:00"
+}, {
+  "fecha" : "1991-10-31",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "28",
+  "velmedia" : "1,7",
+  "racha" : "5,0",
+  "horaracha" : "18:40"
+}, {
+  "fecha" : "1991-11-01",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "13",
+  "velmedia" : "4,7",
+  "racha" : "8,1",
+  "horaracha" : "10:00"
+}, {
+  "fecha" : "1991-11-02",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "10",
+  "velmedia" : "2,5",
+  "racha" : "5,0",
+  "horaracha" : "01:00"
+}, {
+  "fecha" : "1991-11-03",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "35",
+  "velmedia" : "1,7",
+  "racha" : "13,1",
+  "horaracha" : "22:20"
+}, {
+  "fecha" : "1991-11-04",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-11-05",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "velmedia" : "11,7",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-11-06",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "06",
+  "velmedia" : "7,2",
+  "racha" : "13,9",
+  "horaracha" : "09:20"
+}, {
+  "fecha" : "1991-11-07",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "05",
+  "velmedia" : "10,0",
+  "racha" : "16,1",
+  "horaracha" : "18:40"
+}, {
+  "fecha" : "1991-11-08",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "06",
+  "velmedia" : "5,0",
+  "racha" : "11,9",
+  "horaracha" : "01:40"
+}, {
+  "fecha" : "1991-11-09",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "36",
+  "velmedia" : "1,1",
+  "racha" : "6,1",
+  "horaracha" : "01:00"
+}, {
+  "fecha" : "1991-11-10",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "05",
+  "velmedia" : "5,0",
+  "racha" : "13,1",
+  "horaracha" : "21:20"
+}, {
+  "fecha" : "1991-11-11",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "05",
+  "velmedia" : "9,2",
+  "racha" : "15,0",
+  "horaracha" : "09:40"
+}, {
+  "fecha" : "1991-11-12",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "05",
+  "velmedia" : "3,1",
+  "racha" : "8,1",
+  "horaracha" : "06:10"
+}, {
+  "fecha" : "1991-11-13",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "27",
+  "velmedia" : "11,1",
+  "racha" : "25,0",
+  "horaracha" : "20:20"
+}, {
+  "fecha" : "1991-11-14",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "26",
+  "racha" : "23,9",
+  "horaracha" : "16:20"
+}, {
+  "fecha" : "1991-11-15",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "06",
+  "velmedia" : "19,2",
+  "racha" : "28,9",
+  "horaracha" : "16:30"
+}, {
+  "fecha" : "1991-11-16",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "26",
+  "velmedia" : "20,3",
+  "racha" : "28,9",
+  "horaracha" : "15:00"
+}, {
+  "fecha" : "1991-11-17",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "26",
+  "velmedia" : "8,3",
+  "racha" : "21,9",
+  "horaracha" : "00:30"
+}, {
+  "fecha" : "1991-11-18",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "23",
+  "velmedia" : "8,6",
+  "racha" : "25,0",
+  "horaracha" : "22:00"
+}, {
+  "fecha" : "1991-11-19",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "05",
+  "velmedia" : "18,9",
+  "racha" : "21,9",
+  "horaracha" : "17:00"
+}, {
+  "fecha" : "1991-11-20",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "04",
+  "velmedia" : "17,8",
+  "racha" : "31,1",
+  "horaracha" : "03:40"
+}, {
+  "fecha" : "1991-11-21",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "05",
+  "velmedia" : "6,9",
+  "racha" : "18,9",
+  "horaracha" : "02:40"
+}, {
+  "fecha" : "1991-11-22",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "01",
+  "velmedia" : "1,7",
+  "racha" : "18,9",
+  "horaracha" : "09:40"
+}, {
+  "fecha" : "1991-11-23",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "04",
+  "velmedia" : "8,3",
+  "racha" : "16,9",
+  "horaracha" : "16:20"
+}, {
+  "fecha" : "1991-11-24",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "99",
+  "velmedia" : "12,2",
+  "racha" : "20,0",
+  "horaracha" : "11:20"
+}, {
+  "fecha" : "1991-11-25",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "24",
+  "velmedia" : "2,5",
+  "racha" : "13,9",
+  "horaracha" : "01:20"
+}, {
+  "fecha" : "1991-11-26",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "05",
+  "velmedia" : "8,9",
+  "racha" : "18,9",
+  "horaracha" : "22:00"
+}, {
+  "fecha" : "1991-11-27",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "05",
+  "velmedia" : "13,3",
+  "racha" : "25,0",
+  "horaracha" : "21:00"
+}, {
+  "fecha" : "1991-11-28",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "06",
+  "velmedia" : "14,7",
+  "racha" : "25,0",
+  "horaracha" : "03:00"
+}, {
+  "fecha" : "1991-11-29",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "05",
+  "velmedia" : "8,1",
+  "racha" : "23,1",
+  "horaracha" : "00:20"
+}, {
+  "fecha" : "1991-11-30",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "dir" : "30",
+  "velmedia" : "1,9",
+  "racha" : "23,9",
+  "horaracha" : "21:00"
+}, {
+  "fecha" : "1991-12-01",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "99",
+  "velmedia" : "10,8",
+  "racha" : "21,9",
+  "horaracha" : "08:10"
+}, {
+  "fecha" : "1991-12-02",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "99",
+  "velmedia" : "8,3",
+  "racha" : "16,1",
+  "horaracha" : "04:00"
+}, {
+  "fecha" : "1991-12-03",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "99",
+  "velmedia" : "7,2",
+  "racha" : "16,9",
+  "horaracha" : "19:00"
+}, {
+  "fecha" : "1991-12-04",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "99",
+  "velmedia" : "12,5",
+  "racha" : "21,1",
+  "horaracha" : "16:00"
+}, {
+  "fecha" : "1991-12-05",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "99",
+  "velmedia" : "16,7",
+  "racha" : "25,0",
+  "horaracha" : "12:00"
+}, {
+  "fecha" : "1991-12-06",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "99",
+  "velmedia" : "13,1",
+  "racha" : "23,9",
+  "horaracha" : "22:30"
+}, {
+  "fecha" : "1991-12-07",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "99",
+  "velmedia" : "15,0",
+  "racha" : "23,9",
+  "horaracha" : "01:00"
+}, {
+  "fecha" : "1991-12-08",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "6,0",
+  "dir" : "99",
+  "velmedia" : "11,7",
+  "racha" : "23,1",
+  "horaracha" : "02:40"
+}, {
+  "fecha" : "1991-12-09",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "1,0",
+  "dir" : "99",
+  "velmedia" : "10,3",
+  "racha" : "16,9",
+  "horaracha" : "21:50"
+}, {
+  "fecha" : "1991-12-10",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "99",
+  "velmedia" : "12,5",
+  "racha" : "18,1",
+  "horaracha" : "21:00"
+}, {
+  "fecha" : "1991-12-11",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,4",
+  "dir" : "99",
+  "velmedia" : "11,4",
+  "racha" : "18,1",
+  "horaracha" : "22:10"
+}, {
+  "fecha" : "1991-12-12",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "99",
+  "velmedia" : "13,6",
+  "racha" : "21,9",
+  "horaracha" : "19:20"
+}, {
+  "fecha" : "1991-12-13",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "99",
+  "velmedia" : "13,9",
+  "racha" : "21,1",
+  "horaracha" : "16:40"
+}, {
+  "fecha" : "1991-12-14",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,2",
+  "dir" : "99",
+  "velmedia" : "13,6",
+  "racha" : "21,9",
+  "horaracha" : "05:00"
+}, {
+  "fecha" : "1991-12-15",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "3,0",
+  "dir" : "99",
+  "velmedia" : "8,3",
+  "racha" : "18,1",
+  "horaracha" : "02:00"
+}, {
+  "fecha" : "1991-12-16",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "99",
+  "velmedia" : "1,1",
+  "racha" : "6,1",
+  "horaracha" : "06:00"
+}, {
+  "fecha" : "1991-12-17",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "99",
+  "velmedia" : "6,4",
+  "racha" : "11,9",
+  "horaracha" : "21:40"
+}, {
+  "fecha" : "1991-12-18",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "99",
+  "velmedia" : "2,8",
+  "racha" : "10,0",
+  "horaracha" : "10:30"
+}, {
+  "fecha" : "1991-12-19",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "99",
+  "velmedia" : "3,3",
+  "racha" : "13,9",
+  "horaracha" : "22:40"
+}, {
+  "fecha" : "1991-12-20",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "99",
+  "velmedia" : "5,8",
+  "racha" : "20,0",
+  "horaracha" : "04:10"
+}, {
+  "fecha" : "1991-12-21",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "99",
+  "velmedia" : "4,4",
+  "racha" : "8,9",
+  "horaracha" : "10:40"
+}, {
+  "fecha" : "1991-12-22",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "99",
+  "velmedia" : "6,7",
+  "racha" : "11,1",
+  "horaracha" : "11:20"
+}, {
+  "fecha" : "1991-12-23",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "99",
+  "velmedia" : "2,8",
+  "racha" : "6,1",
+  "horaracha" : "01:40"
+}, {
+  "fecha" : "1991-12-24",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-12-25",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "06",
+  "velmedia" : "11,9",
+  "racha" : "21,9",
+  "horaracha" : "19:00"
+}, {
+  "fecha" : "1991-12-26",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "dir" : "07",
+  "velmedia" : "11,1",
+  "racha" : "18,9",
+  "horaracha" : "00:20"
+}, {
+  "fecha" : "1991-12-27",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-12-28",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-12-29",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-12-30",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "horaracha" : "00:00"
+}, {
+  "fecha" : "1991-12-31",
+  "indicativo" : "6381",
+  "nombre" : "ALBORÁN",
+  "provincia" : "ALMERIA",
+  "altitud" : "15",
+  "prec" : "0,0",
+  "horaracha" : "00:00"
+} ]
