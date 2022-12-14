@@ -37,7 +37,7 @@ temp_mins = []
 prec_tot = 0
 
 tmed_anterior = 0
-for i in range(2): # 0: 1981 , 1: 2021
+for i in range(1,2,1): # 0: 1981 , 1: 2021
     for estacion in data:
         success = False
         indicativo = estacion["indicativo"]
@@ -81,7 +81,7 @@ for i in range(2): # 0: 1981 , 1: 2021
                     else:
                         temp_mins.append(float(dia["tmin"].replace(",", ".")))
 
-                    if dia["prec"] == "Ip":
+                    if "prec" not in dia or dia["prec"] == "Ip" or dia["prec"] == "Acum":
                         prec = 0.0
                     else:
                         prec = float(dia["prec"].replace(",", "."))
